@@ -28,7 +28,7 @@ preventing race condition. However, each thread is parallelised according to the
 of the value pointer array. After dividing the work, the result vector takes an index
 from the row pointer array. Therefore, there could be many same indexes at the
 same time, It can be retrieved from different threads. To prevent that first, There are
-# of precess, number of resulting vector that each thread works without race
+number of precess, number of resulting vector that each thread works without race
 condition than these results vectors are reduced in real result vector.
 
 result_vector​ [ ​ omp_get_thread_num​ ()][​ row_ptr​ [i]-​ 1 ​ ] += (​ x ​ [ ​ col_ptr​ [i]-​ 1 ​ ] * ​ val_ptr​ [i]);
