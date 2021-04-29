@@ -1,0 +1,1387 @@
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.240000 in # of process: 2, with trial size 100, while error: 0.031324 in SERİAL EXECUTİON
+result: 3.212000 in # of process: 2, with trial size 1000, while error: 0.022411 in SERİAL EXECUTİON
+result: 3.146400 in # of process: 2, with trial size 10000, while error: 0.001530 in SERİAL EXECUTİON
+result: 3.140720 in # of process: 2, with trial size 100000, while error: 0.000278 in SERİAL EXECUTİON
+result: 3.144844 in # of process: 2, with trial size 1000000, while error: 0.001035 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.220000 in # of process: 4, with trial size 1000, while error: 0.024958 in SERİAL EXECUTİON
+result: 3.128800 in # of process: 4, with trial size 10000, while error: 0.004072 in SERİAL EXECUTİON
+result: 3.153800 in # of process: 4, with trial size 100000, while error: 0.003886 in SERİAL EXECUTİON
+result: 3.143440 in # of process: 4, with trial size 1000000, while error: 0.000588 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 8, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.168000 in # of process: 8, with trial size 1000, while error: 0.008406 in SERİAL EXECUTİON
+result: 3.123200 in # of process: 8, with trial size 10000, while error: 0.005855 in SERİAL EXECUTİON
+result: 3.146640 in # of process: 8, with trial size 100000, while error: 0.001607 in SERİAL EXECUTİON
+result: 3.144484 in # of process: 8, with trial size 1000000, while error: 0.000920 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 16, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.124000 in # of process: 16, with trial size 1000, while error: 0.005600 in SERİAL EXECUTİON
+result: 3.130800 in # of process: 16, with trial size 10000, while error: 0.003435 in SERİAL EXECUTİON
+result: 3.143400 in # of process: 16, with trial size 100000, while error: 0.000575 in SERİAL EXECUTİON
+result: 3.142232 in # of process: 16, with trial size 1000000, while error: 0.000203 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.680000 in # of process: 32, with trial size 100, while error: 0.146929 in SERİAL EXECUTİON
+result: 3.124000 in # of process: 32, with trial size 1000, while error: 0.005600 in SERİAL EXECUTİON
+result: 3.126800 in # of process: 32, with trial size 10000, while error: 0.004709 in SERİAL EXECUTİON
+result: 3.148000 in # of process: 32, with trial size 100000, while error: 0.002040 in SERİAL EXECUTİON
+result: 3.140988 in # of process: 32, with trial size 1000000, while error: 0.000192 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.240000 in # of process: 2, with trial size 100, while error: 0.031324 in SERİAL EXECUTİON
+result: 3.212000 in # of process: 2, with trial size 1000, while error: 0.022411 in SERİAL EXECUTİON
+result: 3.154800 in # of process: 2, with trial size 10000, while error: 0.004204 in SERİAL EXECUTİON
+result: 3.143080 in # of process: 2, with trial size 100000, while error: 0.000473 in SERİAL EXECUTİON
+result: 3.139432 in # of process: 2, with trial size 1000000, while error: 0.000688 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.244000 in # of process: 4, with trial size 1000, while error: 0.032597 in SERİAL EXECUTİON
+result: 3.160400 in # of process: 4, with trial size 10000, while error: 0.005987 in SERİAL EXECUTİON
+result: 3.145920 in # of process: 4, with trial size 100000, while error: 0.001377 in SERİAL EXECUTİON
+result: 3.143420 in # of process: 4, with trial size 1000000, while error: 0.000582 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 8, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.164000 in # of process: 8, with trial size 1000, while error: 0.007132 in SERİAL EXECUTİON
+result: 3.151200 in # of process: 8, with trial size 10000, while error: 0.003058 in SERİAL EXECUTİON
+result: 3.145920 in # of process: 8, with trial size 100000, while error: 0.001377 in SERİAL EXECUTİON
+result: 3.143340 in # of process: 8, with trial size 1000000, while error: 0.000556 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.920000 in # of process: 16, with trial size 100, while error: 0.070535 in SERİAL EXECUTİON
+result: 3.156000 in # of process: 16, with trial size 1000, while error: 0.004586 in SERİAL EXECUTİON
+result: 3.161200 in # of process: 16, with trial size 10000, while error: 0.006241 in SERİAL EXECUTİON
+result: 3.145520 in # of process: 16, with trial size 100000, while error: 0.001250 in SERİAL EXECUTİON
+result: 3.142268 in # of process: 16, with trial size 1000000, while error: 0.000215 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.840000 in # of process: 32, with trial size 100, while error: 0.096000 in SERİAL EXECUTİON
+result: 3.140000 in # of process: 32, with trial size 1000, while error: 0.000507 in SERİAL EXECUTİON
+result: 3.117600 in # of process: 32, with trial size 10000, while error: 0.007637 in SERİAL EXECUTİON
+result: 3.144960 in # of process: 32, with trial size 100000, while error: 0.001072 in SERİAL EXECUTİON
+result: 3.144260 in # of process: 32, with trial size 1000000, while error: 0.000849 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.188000 in # of process: 2, with trial size 1000, while error: 0.014772 in SERİAL EXECUTİON
+result: 3.132000 in # of process: 2, with trial size 10000, while error: 0.003053 in SERİAL EXECUTİON
+result: 3.155320 in # of process: 2, with trial size 100000, while error: 0.004370 in SERİAL EXECUTİON
+result: 3.143192 in # of process: 2, with trial size 1000000, while error: 0.000509 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.188000 in # of process: 4, with trial size 1000, while error: 0.014772 in SERİAL EXECUTİON
+result: 3.136400 in # of process: 4, with trial size 10000, while error: 0.001653 in SERİAL EXECUTİON
+result: 3.143920 in # of process: 4, with trial size 100000, while error: 0.000741 in SERİAL EXECUTİON
+result: 3.143712 in # of process: 4, with trial size 1000000, while error: 0.000675 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 8, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.196000 in # of process: 8, with trial size 1000, while error: 0.017318 in SERİAL EXECUTİON
+result: 3.122800 in # of process: 8, with trial size 10000, while error: 0.005982 in SERİAL EXECUTİON
+result: 3.154920 in # of process: 8, with trial size 100000, while error: 0.004242 in SERİAL EXECUTİON
+result: 3.141620 in # of process: 8, with trial size 1000000, while error: 0.000009 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 16, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.144000 in # of process: 16, with trial size 1000, while error: 0.000766 in SERİAL EXECUTİON
+result: 3.171600 in # of process: 16, with trial size 10000, while error: 0.009552 in SERİAL EXECUTİON
+result: 3.147240 in # of process: 16, with trial size 100000, while error: 0.001798 in SERİAL EXECUTİON
+result: 3.141968 in # of process: 16, with trial size 1000000, while error: 0.000119 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.840000 in # of process: 32, with trial size 100, while error: 0.096000 in SERİAL EXECUTİON
+result: 3.140000 in # of process: 32, with trial size 1000, while error: 0.000507 in SERİAL EXECUTİON
+result: 3.143200 in # of process: 32, with trial size 10000, while error: 0.000512 in SERİAL EXECUTİON
+result: 3.146480 in # of process: 32, with trial size 100000, while error: 0.001556 in SERİAL EXECUTİON
+result: 3.141088 in # of process: 32, with trial size 1000000, while error: 0.000161 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 2, with trial size 1000, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.133200 in # of process: 2, with trial size 10000, while error: 0.002671 in SERİAL EXECUTİON
+result: 3.147040 in # of process: 2, with trial size 100000, while error: 0.001734 in SERİAL EXECUTİON
+result: 3.141680 in # of process: 2, with trial size 1000000, while error: 0.000028 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 4, with trial size 100, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.212000 in # of process: 4, with trial size 1000, while error: 0.022411 in SERİAL EXECUTİON
+result: 3.110000 in # of process: 4, with trial size 10000, while error: 0.010056 in SERİAL EXECUTİON
+result: 3.144040 in # of process: 4, with trial size 100000, while error: 0.000779 in SERİAL EXECUTİON
+result: 3.141640 in # of process: 4, with trial size 1000000, while error: 0.000015 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 8, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.184000 in # of process: 8, with trial size 1000, while error: 0.013499 in SERİAL EXECUTİON
+result: 3.157600 in # of process: 8, with trial size 10000, while error: 0.005095 in SERİAL EXECUTİON
+result: 3.145600 in # of process: 8, with trial size 100000, while error: 0.001276 in SERİAL EXECUTİON
+result: 3.141536 in # of process: 8, with trial size 1000000, while error: 0.000018 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 16, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.152000 in # of process: 16, with trial size 1000, while error: 0.003313 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 16, with trial size 10000, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.145240 in # of process: 16, with trial size 100000, while error: 0.001161 in SERİAL EXECUTİON
+result: 3.141276 in # of process: 16, with trial size 1000000, while error: 0.000101 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 32, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.132000 in # of process: 32, with trial size 1000, while error: 0.003053 in SERİAL EXECUTİON
+result: 3.116400 in # of process: 32, with trial size 10000, while error: 0.008019 in SERİAL EXECUTİON
+result: 3.139880 in # of process: 32, with trial size 100000, while error: 0.000545 in SERİAL EXECUTİON
+result: 3.140908 in # of process: 32, with trial size 1000000, while error: 0.000218 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.212000 in # of process: 2, with trial size 1000, while error: 0.022411 in SERİAL EXECUTİON
+result: 3.132000 in # of process: 2, with trial size 10000, while error: 0.003053 in SERİAL EXECUTİON
+result: 3.144200 in # of process: 2, with trial size 100000, while error: 0.000830 in SERİAL EXECUTİON
+result: 3.144856 in # of process: 2, with trial size 1000000, while error: 0.001039 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.116000 in # of process: 4, with trial size 1000, while error: 0.008146 in SERİAL EXECUTİON
+result: 3.160000 in # of process: 4, with trial size 10000, while error: 0.005859 in SERİAL EXECUTİON
+result: 3.149000 in # of process: 4, with trial size 100000, while error: 0.002358 in SERİAL EXECUTİON
+result: 3.143076 in # of process: 4, with trial size 1000000, while error: 0.000472 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 2.920000 in # of process: 8, with trial size 100, while error: 0.070535 in SERİAL EXECUTİON
+result: 3.136000 in # of process: 8, with trial size 1000, while error: 0.001780 in SERİAL EXECUTİON
+result: 3.162400 in # of process: 8, with trial size 10000, while error: 0.006623 in SERİAL EXECUTİON
+result: 3.143640 in # of process: 8, with trial size 100000, while error: 0.000652 in SERİAL EXECUTİON
+result: 3.140380 in # of process: 8, with trial size 1000000, while error: 0.000386 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.680000 in # of process: 16, with trial size 100, while error: 0.146929 in SERİAL EXECUTİON
+result: 3.128000 in # of process: 16, with trial size 1000, while error: 0.004327 in SERİAL EXECUTİON
+result: 3.138000 in # of process: 16, with trial size 10000, while error: 0.001144 in SERİAL EXECUTİON
+result: 3.146800 in # of process: 16, with trial size 100000, while error: 0.001658 in SERİAL EXECUTİON
+result: 3.142368 in # of process: 16, with trial size 1000000, while error: 0.000247 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.840000 in # of process: 32, with trial size 100, while error: 0.096000 in SERİAL EXECUTİON
+result: 3.116000 in # of process: 32, with trial size 1000, while error: 0.008146 in SERİAL EXECUTİON
+result: 3.131200 in # of process: 32, with trial size 10000, while error: 0.003308 in SERİAL EXECUTİON
+result: 3.141080 in # of process: 32, with trial size 100000, while error: 0.000163 in SERİAL EXECUTİON
+result: 3.141364 in # of process: 32, with trial size 1000000, while error: 0.000073 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.280000 in # of process: 2, with trial size 100, while error: 0.044056 in SERİAL EXECUTİON
+result: 3.108000 in # of process: 2, with trial size 1000, while error: 0.010693 in SERİAL EXECUTİON
+result: 3.137600 in # of process: 2, with trial size 10000, while error: 0.001271 in SERİAL EXECUTİON
+result: 3.154280 in # of process: 2, with trial size 100000, while error: 0.004038 in SERİAL EXECUTİON
+result: 3.144996 in # of process: 2, with trial size 1000000, while error: 0.001083 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.240000 in # of process: 4, with trial size 100, while error: 0.031324 in SERİAL EXECUTİON
+result: 3.220000 in # of process: 4, with trial size 1000, while error: 0.024958 in SERİAL EXECUTİON
+result: 3.135200 in # of process: 4, with trial size 10000, while error: 0.002035 in SERİAL EXECUTİON
+result: 3.143600 in # of process: 4, with trial size 100000, while error: 0.000639 in SERİAL EXECUTİON
+result: 3.141236 in # of process: 4, with trial size 1000000, while error: 0.000114 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 2.920000 in # of process: 8, with trial size 100, while error: 0.070535 in SERİAL EXECUTİON
+result: 3.220000 in # of process: 8, with trial size 1000, while error: 0.024958 in SERİAL EXECUTİON
+result: 3.160800 in # of process: 8, with trial size 10000, while error: 0.006114 in SERİAL EXECUTİON
+result: 3.137600 in # of process: 8, with trial size 100000, while error: 0.001271 in SERİAL EXECUTİON
+result: 3.142748 in # of process: 8, with trial size 1000000, while error: 0.000368 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 16, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.124000 in # of process: 16, with trial size 1000, while error: 0.005600 in SERİAL EXECUTİON
+result: 3.147200 in # of process: 16, with trial size 10000, while error: 0.001785 in SERİAL EXECUTİON
+result: 3.143160 in # of process: 16, with trial size 100000, while error: 0.000499 in SERİAL EXECUTİON
+result: 3.142368 in # of process: 16, with trial size 1000000, while error: 0.000247 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 32, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.128000 in # of process: 32, with trial size 1000, while error: 0.004327 in SERİAL EXECUTİON
+result: 3.131200 in # of process: 32, with trial size 10000, while error: 0.003308 in SERİAL EXECUTİON
+result: 3.147280 in # of process: 32, with trial size 100000, while error: 0.001810 in SERİAL EXECUTİON
+result: 3.141676 in # of process: 32, with trial size 1000000, while error: 0.000027 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.204000 in # of process: 2, with trial size 1000, while error: 0.019865 in SERİAL EXECUTİON
+result: 3.136000 in # of process: 2, with trial size 10000, while error: 0.001780 in SERİAL EXECUTİON
+result: 3.144640 in # of process: 2, with trial size 100000, while error: 0.000970 in SERİAL EXECUTİON
+result: 3.142124 in # of process: 2, with trial size 1000000, while error: 0.000169 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.252000 in # of process: 4, with trial size 1000, while error: 0.035144 in SERİAL EXECUTİON
+result: 3.143200 in # of process: 4, with trial size 10000, while error: 0.000512 in SERİAL EXECUTİON
+result: 3.139800 in # of process: 4, with trial size 100000, while error: 0.000571 in SERİAL EXECUTİON
+result: 3.142828 in # of process: 4, with trial size 1000000, while error: 0.000393 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.080000 in # of process: 8, with trial size 100, while error: 0.019606 in SERİAL EXECUTİON
+result: 3.144000 in # of process: 8, with trial size 1000, while error: 0.000766 in SERİAL EXECUTİON
+result: 3.160800 in # of process: 8, with trial size 10000, while error: 0.006114 in SERİAL EXECUTİON
+result: 3.142120 in # of process: 8, with trial size 100000, while error: 0.000168 in SERİAL EXECUTİON
+result: 3.141352 in # of process: 8, with trial size 1000000, while error: 0.000077 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.080000 in # of process: 16, with trial size 100, while error: 0.019606 in SERİAL EXECUTİON
+result: 3.140000 in # of process: 16, with trial size 1000, while error: 0.000507 in SERİAL EXECUTİON
+result: 3.136000 in # of process: 16, with trial size 10000, while error: 0.001780 in SERİAL EXECUTİON
+result: 3.136560 in # of process: 16, with trial size 100000, while error: 0.001602 in SERİAL EXECUTİON
+result: 3.142940 in # of process: 16, with trial size 1000000, while error: 0.000429 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 32, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.124000 in # of process: 32, with trial size 1000, while error: 0.005600 in SERİAL EXECUTİON
+result: 3.120400 in # of process: 32, with trial size 10000, while error: 0.006746 in SERİAL EXECUTİON
+result: 3.143720 in # of process: 32, with trial size 100000, while error: 0.000677 in SERİAL EXECUTİON
+result: 3.143588 in # of process: 32, with trial size 1000000, while error: 0.000635 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.216000 in # of process: 2, with trial size 1000, while error: 0.023685 in SERİAL EXECUTİON
+result: 3.144800 in # of process: 2, with trial size 10000, while error: 0.001021 in SERİAL EXECUTİON
+result: 3.147480 in # of process: 2, with trial size 100000, while error: 0.001874 in SERİAL EXECUTİON
+result: 3.142680 in # of process: 2, with trial size 1000000, while error: 0.000346 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 4, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.160000 in # of process: 4, with trial size 100, while error: 0.005859 in SERİAL EXECUTİON
+result: 3.176000 in # of process: 4, with trial size 1000, while error: 0.010952 in SERİAL EXECUTİON
+result: 3.139600 in # of process: 4, with trial size 10000, while error: 0.000634 in SERİAL EXECUTİON
+result: 3.142480 in # of process: 4, with trial size 100000, while error: 0.000282 in SERİAL EXECUTİON
+result: 3.144236 in # of process: 4, with trial size 1000000, while error: 0.000841 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.160000 in # of process: 8, with trial size 100, while error: 0.005859 in SERİAL EXECUTİON
+result: 3.160000 in # of process: 8, with trial size 1000, while error: 0.005859 in SERİAL EXECUTİON
+result: 3.140400 in # of process: 8, with trial size 10000, while error: 0.000380 in SERİAL EXECUTİON
+result: 3.146640 in # of process: 8, with trial size 100000, while error: 0.001607 in SERİAL EXECUTİON
+result: 3.143732 in # of process: 8, with trial size 1000000, while error: 0.000681 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 16, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.148000 in # of process: 16, with trial size 1000, while error: 0.002040 in SERİAL EXECUTİON
+result: 3.134800 in # of process: 16, with trial size 10000, while error: 0.002162 in SERİAL EXECUTİON
+result: 3.143440 in # of process: 16, with trial size 100000, while error: 0.000588 in SERİAL EXECUTİON
+result: 3.143336 in # of process: 16, with trial size 1000000, while error: 0.000555 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.840000 in # of process: 32, with trial size 100, while error: 0.096000 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 32, with trial size 1000, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.116400 in # of process: 32, with trial size 10000, while error: 0.008019 in SERİAL EXECUTİON
+result: 3.139920 in # of process: 32, with trial size 100000, while error: 0.000532 in SERİAL EXECUTİON
+result: 3.144084 in # of process: 32, with trial size 1000000, while error: 0.000793 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 2, with trial size 1000, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.126800 in # of process: 2, with trial size 10000, while error: 0.004709 in SERİAL EXECUTİON
+result: 3.142160 in # of process: 2, with trial size 100000, while error: 0.000181 in SERİAL EXECUTİON
+result: 3.143856 in # of process: 2, with trial size 1000000, while error: 0.000720 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.140000 in # of process: 4, with trial size 1000, while error: 0.000507 in SERİAL EXECUTİON
+result: 3.146400 in # of process: 4, with trial size 10000, while error: 0.001530 in SERİAL EXECUTİON
+result: 3.145760 in # of process: 4, with trial size 100000, while error: 0.001327 in SERİAL EXECUTİON
+result: 3.141356 in # of process: 4, with trial size 1000000, while error: 0.000075 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 8, with trial size 100, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.212000 in # of process: 8, with trial size 1000, while error: 0.022411 in SERİAL EXECUTİON
+result: 3.132000 in # of process: 8, with trial size 10000, while error: 0.003053 in SERİAL EXECUTİON
+result: 3.143680 in # of process: 8, with trial size 100000, while error: 0.000664 in SERİAL EXECUTİON
+result: 3.144940 in # of process: 8, with trial size 1000000, while error: 0.001065 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 16, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.164000 in # of process: 16, with trial size 1000, while error: 0.007132 in SERİAL EXECUTİON
+result: 3.123600 in # of process: 16, with trial size 10000, while error: 0.005727 in SERİAL EXECUTİON
+result: 3.142960 in # of process: 16, with trial size 100000, while error: 0.000435 in SERİAL EXECUTİON
+result: 3.143920 in # of process: 16, with trial size 1000000, while error: 0.000741 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 32, with trial size 100, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.108000 in # of process: 32, with trial size 1000, while error: 0.010693 in SERİAL EXECUTİON
+result: 3.135200 in # of process: 32, with trial size 10000, while error: 0.002035 in SERİAL EXECUTİON
+result: 3.143440 in # of process: 32, with trial size 100000, while error: 0.000588 in SERİAL EXECUTİON
+result: 3.142280 in # of process: 32, with trial size 1000000, while error: 0.000219 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 in SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 in SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 in SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 in SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 2, with trial size 1000, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.137600 in # of process: 2, with trial size 10000, while error: 0.001271 in SERİAL EXECUTİON
+result: 3.147880 in # of process: 2, with trial size 100000, while error: 0.002001 in SERİAL EXECUTİON
+result: 3.144100 in # of process: 2, with trial size 1000000, while error: 0.000798 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 4, with trial size 100, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.128000 in # of process: 4, with trial size 1000, while error: 0.004327 in SERİAL EXECUTİON
+result: 3.177600 in # of process: 4, with trial size 10000, while error: 0.011461 in SERİAL EXECUTİON
+result: 3.149720 in # of process: 4, with trial size 100000, while error: 0.002587 in SERİAL EXECUTİON
+result: 3.145908 in # of process: 4, with trial size 1000000, while error: 0.001374 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 8, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.104000 in # of process: 8, with trial size 1000, while error: 0.011966 in SERİAL EXECUTİON
+result: 3.154400 in # of process: 8, with trial size 10000, while error: 0.004077 in SERİAL EXECUTİON
+result: 3.145320 in # of process: 8, with trial size 100000, while error: 0.001186 in SERİAL EXECUTİON
+result: 3.144008 in # of process: 8, with trial size 1000000, while error: 0.000769 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.920000 in # of process: 16, with trial size 100, while error: 0.070535 in SERİAL EXECUTİON
+result: 3.156000 in # of process: 16, with trial size 1000, while error: 0.004586 in SERİAL EXECUTİON
+result: 3.125600 in # of process: 16, with trial size 10000, while error: 0.005091 in SERİAL EXECUTİON
+result: 3.152360 in # of process: 16, with trial size 100000, while error: 0.003427 in SERİAL EXECUTİON
+result: 3.142912 in # of process: 16, with trial size 1000000, while error: 0.000420 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 32, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.128000 in # of process: 32, with trial size 1000, while error: 0.004327 in SERİAL EXECUTİON
+result: 3.145600 in # of process: 32, with trial size 10000, while error: 0.001276 in SERİAL EXECUTİON
+result: 3.145720 in # of process: 32, with trial size 100000, while error: 0.001314 in SERİAL EXECUTİON
+result: 3.142044 in # of process: 32, with trial size 1000000, while error: 0.000144 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.994520 in # of process: 1, with trial size 100000, while error: 0.271495 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 2.393200 in # of process: 2, with trial size 10000, while error: 0.238221 in SERİAL EXECUTİON
+result: 2.587080 in # of process: 2, with trial size 100000, while error: 0.176507 in SERİAL EXECUTİON
+result: 3.440988 in # of process: 2, with trial size 1000000, while error: 0.095301 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 4, with trial size 10, while error: 0.363380 in SERİAL EXECUTİON
+result: 3.520000 in # of process: 4, with trial size 100, while error: 0.120451 in SERİAL EXECUTİON
+result: 3.636000 in # of process: 4, with trial size 1000, while error: 0.157375 in SERİAL EXECUTİON
+result: 3.459600 in # of process: 4, with trial size 10000, while error: 0.101225 in SERİAL EXECUTİON
+result: 2.987760 in # of process: 4, with trial size 100000, while error: 0.048966 in SERİAL EXECUTİON
+result: 3.189680 in # of process: 4, with trial size 1000000, while error: 0.015307 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 8, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 8, with trial size 100, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.416000 in # of process: 8, with trial size 1000, while error: 0.087347 in SERİAL EXECUTİON
+result: 3.405200 in # of process: 8, with trial size 10000, while error: 0.083909 in SERİAL EXECUTİON
+result: 3.385600 in # of process: 8, with trial size 100000, while error: 0.077670 in SERİAL EXECUTİON
+result: 3.049968 in # of process: 8, with trial size 1000000, while error: 0.029165 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.400000 in # of process: 16, with trial size 100, while error: 0.082254 in SERİAL EXECUTİON
+result: 3.272000 in # of process: 16, with trial size 1000, while error: 0.041510 in SERİAL EXECUTİON
+result: 3.237600 in # of process: 16, with trial size 10000, while error: 0.030560 in SERİAL EXECUTİON
+result: 3.144440 in # of process: 16, with trial size 100000, while error: 0.000906 in SERİAL EXECUTİON
+result: 3.123600 in # of process: 16, with trial size 1000000, while error: 0.005727 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 32, with trial size 100, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.332000 in # of process: 32, with trial size 1000, while error: 0.060609 in SERİAL EXECUTİON
+result: 3.340400 in # of process: 32, with trial size 10000, while error: 0.063282 in SERİAL EXECUTİON
+result: 3.345560 in # of process: 32, with trial size 100000, while error: 0.064925 in SERİAL EXECUTİON
+result: 3.198480 in # of process: 32, with trial size 1000000, while error: 0.018108 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100000, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.904088 in # of process: 1, with trial size 1000000, while error: 0.075600 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.880000 in # of process: 2, with trial size 100, while error: 0.235042 in SERİAL EXECUTİON
+result: 3.472000 in # of process: 2, with trial size 1000, while error: 0.105172 in SERİAL EXECUTİON
+result: 3.564000 in # of process: 2, with trial size 10000, while error: 0.134456 in SERİAL EXECUTİON
+result: 3.376520 in # of process: 2, with trial size 100000, while error: 0.074780 in SERİAL EXECUTİON
+result: 3.326684 in # of process: 2, with trial size 1000000, while error: 0.058916 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.920000 in # of process: 4, with trial size 100, while error: 0.247775 in SERİAL EXECUTİON
+result: 3.684000 in # of process: 4, with trial size 1000, while error: 0.172654 in SERİAL EXECUTİON
+result: 3.793600 in # of process: 4, with trial size 10000, while error: 0.207540 in SERİAL EXECUTİON
+result: 3.650680 in # of process: 4, with trial size 100000, while error: 0.162048 in SERİAL EXECUTİON
+result: 2.936344 in # of process: 4, with trial size 1000000, while error: 0.065333 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 8, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 1.640000 in # of process: 8, with trial size 100, while error: 0.477972 in SERİAL EXECUTİON
+result: 2.388000 in # of process: 8, with trial size 1000, while error: 0.239876 in SERİAL EXECUTİON
+result: 2.532800 in # of process: 8, with trial size 10000, while error: 0.193785 in SERİAL EXECUTİON
+result: 2.718040 in # of process: 8, with trial size 100000, while error: 0.134821 in SERİAL EXECUTİON
+result: 2.958392 in # of process: 8, with trial size 1000000, while error: 0.058315 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 16, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.236000 in # of process: 16, with trial size 1000, while error: 0.030051 in SERİAL EXECUTİON
+result: 3.258400 in # of process: 16, with trial size 10000, while error: 0.037181 in SERİAL EXECUTİON
+result: 3.315040 in # of process: 16, with trial size 100000, while error: 0.055210 in SERİAL EXECUTİON
+result: 2.951028 in # of process: 16, with trial size 1000000, while error: 0.060659 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.520000 in # of process: 32, with trial size 100, while error: 0.197859 in SERİAL EXECUTİON
+result: 2.824000 in # of process: 32, with trial size 1000, while error: 0.101093 in SERİAL EXECUTİON
+result: 2.858000 in # of process: 32, with trial size 10000, while error: 0.090270 in SERİAL EXECUTİON
+result: 2.975560 in # of process: 32, with trial size 100000, while error: 0.052850 in SERİAL EXECUTİON
+result: 2.423824 in # of process: 32, with trial size 1000000, while error: 0.228473 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 in SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 in SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 in SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.880000 in # of process: 2, with trial size 100, while error: 0.235042 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.704000 in # of process: 2, with trial size 10000, while error: 0.179020 in SERİAL EXECUTİON
+result: 3.711840 in # of process: 2, with trial size 100000, while error: 0.181515 in SERİAL EXECUTİON
+result: 3.324328 in # of process: 2, with trial size 1000000, while error: 0.058166 in SERİAL EXECUTİON
+result: 1.600000 in # of process: 4, with trial size 10, while error: 0.490704 in SERİAL EXECUTİON
+result: 3.280000 in # of process: 4, with trial size 100, while error: 0.044056 in SERİAL EXECUTİON
+result: 3.816000 in # of process: 4, with trial size 1000, while error: 0.214671 in SERİAL EXECUTİON
+result: 3.800000 in # of process: 4, with trial size 10000, while error: 0.209578 in SERİAL EXECUTİON
+result: 3.720280 in # of process: 4, with trial size 100000, while error: 0.184202 in SERİAL EXECUTİON
+result: 3.790924 in # of process: 4, with trial size 1000000, while error: 0.206689 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 8, with trial size 10, while error: 0.363380 in SERİAL EXECUTİON
+result: 3.560000 in # of process: 8, with trial size 100, while error: 0.133183 in SERİAL EXECUTİON
+result: 3.512000 in # of process: 8, with trial size 1000, while error: 0.117904 in SERİAL EXECUTİON
+result: 3.528400 in # of process: 8, with trial size 10000, while error: 0.123125 in SERİAL EXECUTİON
+result: 3.487800 in # of process: 8, with trial size 100000, while error: 0.110201 in SERİAL EXECUTİON
+result: 2.877224 in # of process: 8, with trial size 1000000, while error: 0.084151 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 16, with trial size 100, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.592000 in # of process: 16, with trial size 1000, while error: 0.143369 in SERİAL EXECUTİON
+result: 3.646000 in # of process: 16, with trial size 10000, while error: 0.160558 in SERİAL EXECUTİON
+result: 3.541440 in # of process: 16, with trial size 100000, while error: 0.127275 in SERİAL EXECUTİON
+result: 2.959864 in # of process: 16, with trial size 1000000, while error: 0.057846 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 1.320000 in # of process: 32, with trial size 100, while error: 0.579831 in SERİAL EXECUTİON
+result: 2.128000 in # of process: 32, with trial size 1000, while error: 0.322637 in SERİAL EXECUTİON
+result: 2.158000 in # of process: 32, with trial size 10000, while error: 0.313087 in SERİAL EXECUTİON
+result: 2.381280 in # of process: 32, with trial size 100000, while error: 0.242015 in SERİAL EXECUTİON
+result: 3.096268 in # of process: 32, with trial size 1000000, while error: 0.014427 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.724000 in # of process: 2, with trial size 1000, while error: 0.185386 in SERİAL EXECUTİON
+result: 3.996800 in # of process: 2, with trial size 10000, while error: 0.272221 in SERİAL EXECUTİON
+result: 3.869120 in # of process: 2, with trial size 100000, while error: 0.231579 in SERİAL EXECUTİON
+result: 3.040980 in # of process: 2, with trial size 1000000, while error: 0.032026 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 4, with trial size 10, while error: 0.363380 in SERİAL EXECUTİON
+result: 3.640000 in # of process: 4, with trial size 100, while error: 0.158648 in SERİAL EXECUTİON
+result: 3.412000 in # of process: 4, with trial size 1000, while error: 0.086073 in SERİAL EXECUTİON
+result: 3.555600 in # of process: 4, with trial size 10000, while error: 0.131783 in SERİAL EXECUTİON
+result: 3.497120 in # of process: 4, with trial size 100000, while error: 0.113168 in SERİAL EXECUTİON
+result: 3.391536 in # of process: 4, with trial size 1000000, while error: 0.079559 in SERİAL EXECUTİON
+result: 1.200000 in # of process: 8, with trial size 10, while error: 0.618028 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 8, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.076000 in # of process: 8, with trial size 1000, while error: 0.020879 in SERİAL EXECUTİON
+result: 3.120400 in # of process: 8, with trial size 10000, while error: 0.006746 in SERİAL EXECUTİON
+result: 3.049560 in # of process: 8, with trial size 100000, while error: 0.029295 in SERİAL EXECUTİON
+result: 2.986872 in # of process: 8, with trial size 1000000, while error: 0.049249 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.800000 in # of process: 16, with trial size 100, while error: 0.209578 in SERİAL EXECUTİON
+result: 3.540000 in # of process: 16, with trial size 1000, while error: 0.126817 in SERİAL EXECUTİON
+result: 3.614400 in # of process: 16, with trial size 10000, while error: 0.150499 in SERİAL EXECUTİON
+result: 3.588800 in # of process: 16, with trial size 100000, while error: 0.142351 in SERİAL EXECUTİON
+result: 3.192728 in # of process: 16, with trial size 1000000, while error: 0.016277 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.520000 in # of process: 32, with trial size 100, while error: 0.120451 in SERİAL EXECUTİON
+result: 3.144000 in # of process: 32, with trial size 1000, while error: 0.000766 in SERİAL EXECUTİON
+result: 3.151200 in # of process: 32, with trial size 10000, while error: 0.003058 in SERİAL EXECUTİON
+result: 3.242280 in # of process: 32, with trial size 100000, while error: 0.032050 in SERİAL EXECUTİON
+result: 2.709376 in # of process: 32, with trial size 1000000, while error: 0.137579 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.082912 in # of process: 2, with trial size 1000000, while error: 0.018679 in SERİAL EXECUTİON
+result: 1.600000 in # of process: 4, with trial size 10, while error: 0.490704 in SERİAL EXECUTİON
+result: 1.200000 in # of process: 4, with trial size 100, while error: 0.618028 in SERİAL EXECUTİON
+result: 1.656000 in # of process: 4, with trial size 1000, while error: 0.472879 in SERİAL EXECUTİON
+result: 1.842000 in # of process: 4, with trial size 10000, while error: 0.413673 in SERİAL EXECUTİON
+result: 1.869680 in # of process: 4, with trial size 100000, while error: 0.404862 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.680000 in # of process: 2, with trial size 100, while error: 0.171380 in SERİAL EXECUTİON
+result: 3.992000 in # of process: 2, with trial size 1000, while error: 0.270693 in SERİAL EXECUTİON
+result: 3.727200 in # of process: 2, with trial size 10000, while error: 0.186405 in SERİAL EXECUTİON
+result: 3.756560 in # of process: 2, with trial size 100000, while error: 0.195750 in SERİAL EXECUTİON
+result: 3.434888 in # of process: 2, with trial size 1000000, while error: 0.093359 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 4, with trial size 100, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.736000 in # of process: 4, with trial size 1000, while error: 0.189206 in SERİAL EXECUTİON
+result: 3.616400 in # of process: 4, with trial size 10000, while error: 0.151136 in SERİAL EXECUTİON
+result: 3.316960 in # of process: 4, with trial size 100000, while error: 0.055821 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100000, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.968964 in # of process: 1, with trial size 1000000, while error: 0.263361 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.924000 in # of process: 2, with trial size 1000, while error: 0.249048 in SERİAL EXECUTİON
+result: 3.798800 in # of process: 2, with trial size 10000, while error: 0.209196 in SERİAL EXECUTİON
+result: 2.724920 in # of process: 2, with trial size 100000, while error: 0.132631 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 in SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 in SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 in SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.121388 in # of process: 2, with trial size 1000000, while error: 0.006431 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 4, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.080000 in # of process: 4, with trial size 100, while error: 0.019606 in SERİAL EXECUTİON
+result: 2.872000 in # of process: 4, with trial size 1000, while error: 0.085814 in SERİAL EXECUTİON
+result: 2.935200 in # of process: 4, with trial size 10000, while error: 0.065697 in SERİAL EXECUTİON
+result: 2.871480 in # of process: 4, with trial size 100000, while error: 0.085980 in SERİAL EXECUTİON
+result: 3.096864 in # of process: 4, with trial size 1000000, while error: 0.014238 in SERİAL EXECUTİON
+result: 1.200000 in # of process: 8, with trial size 10, while error: 0.618028 in SERİAL EXECUTİON
+result: 3.520000 in # of process: 8, with trial size 100, while error: 0.120451 in SERİAL EXECUTİON
+result: 2.888000 in # of process: 8, with trial size 1000, while error: 0.080721 in SERİAL EXECUTİON
+result: 3.081200 in # of process: 8, with trial size 10000, while error: 0.019224 in SERİAL EXECUTİON
+result: 3.221800 in # of process: 8, with trial size 100000, while error: 0.025531 in SERİAL EXECUTİON
+result: 3.313168 in # of process: 8, with trial size 1000000, while error: 0.054614 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.440000 in # of process: 16, with trial size 100, while error: 0.094986 in SERİAL EXECUTİON
+result: 3.612000 in # of process: 16, with trial size 1000, while error: 0.149735 in SERİAL EXECUTİON
+result: 3.504400 in # of process: 16, with trial size 10000, while error: 0.115485 in SERİAL EXECUTİON
+result: 3.682480 in # of process: 16, with trial size 100000, while error: 0.172170 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.960000 in # of process: 2, with trial size 100, while error: 0.260507 in SERİAL EXECUTİON
+result: 3.996000 in # of process: 2, with trial size 1000, while error: 0.271966 in SERİAL EXECUTİON
+result: 3.991600 in # of process: 2, with trial size 10000, while error: 0.270566 in SERİAL EXECUTİON
+result: 3.669360 in # of process: 2, with trial size 100000, while error: 0.167994 in SERİAL EXECUTİON
+result: 3.571904 in # of process: 2, with trial size 1000000, while error: 0.136972 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 4, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 4, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 3.360000 in # of process: 4, with trial size 1000, while error: 0.069521 in SERİAL EXECUTİON
+result: 3.293200 in # of process: 4, with trial size 10000, while error: 0.048258 in SERİAL EXECUTİON
+result: 3.199040 in # of process: 4, with trial size 100000, while error: 0.018286 in SERİAL EXECUTİON
+result: 2.813596 in # of process: 4, with trial size 1000000, while error: 0.104405 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 8, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 2.040000 in # of process: 8, with trial size 100, while error: 0.350648 in SERİAL EXECUTİON
+result: 3.048000 in # of process: 8, with trial size 1000, while error: 0.029791 in SERİAL EXECUTİON
+result: 3.081600 in # of process: 8, with trial size 10000, while error: 0.019096 in SERİAL EXECUTİON
+result: 3.060040 in # of process: 8, with trial size 100000, while error: 0.025959 in SERİAL EXECUTİON
+result: 3.415156 in # of process: 8, with trial size 1000000, while error: 0.087078 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 16, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 2.872000 in # of process: 16, with trial size 1000, while error: 0.085814 in SERİAL EXECUTİON
+result: 2.928000 in # of process: 16, with trial size 10000, while error: 0.067989 in SERİAL EXECUTİON
+result: 3.027120 in # of process: 16, with trial size 100000, while error: 0.036438 in SERİAL EXECUTİON
+result: 3.252260 in # of process: 16, with trial size 1000000, while error: 0.035227 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 32, with trial size 100, while error: 0.363380 in SERİAL EXECUTİON
+result: 2.488000 in # of process: 32, with trial size 1000, while error: 0.208045 in SERİAL EXECUTİON
+result: 2.680000 in # of process: 32, with trial size 10000, while error: 0.146929 in SERİAL EXECUTİON
+result: 2.728200 in # of process: 32, with trial size 100000, while error: 0.131587 in SERİAL EXECUTİON
+result: 2.528080 in # of process: 32, with trial size 1000000, while error: 0.195287 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000004 in # of process: 1, with trial size 1000000, while error: 0.999999 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 2, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 2.160000 in # of process: 2, with trial size 100, while error: 0.312451 in SERİAL EXECUTİON
+result: 1.996000 in # of process: 2, with trial size 1000, while error: 0.364653 in SERİAL EXECUTİON
+result: 2.665600 in # of process: 2, with trial size 10000, while error: 0.151513 in SERİAL EXECUTİON
+result: 2.820440 in # of process: 2, with trial size 100000, while error: 0.102226 in SERİAL EXECUTİON
+result: 2.923184 in # of process: 2, with trial size 1000000, while error: 0.069522 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 4, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.440000 in # of process: 4, with trial size 100, while error: 0.094986 in SERİAL EXECUTİON
+result: 3.352000 in # of process: 4, with trial size 1000, while error: 0.066975 in SERİAL EXECUTİON
+result: 3.334000 in # of process: 4, with trial size 10000, while error: 0.061245 in SERİAL EXECUTİON
+result: 3.519800 in # of process: 4, with trial size 100000, while error: 0.120387 in SERİAL EXECUTİON
+result: 3.292444 in # of process: 4, with trial size 1000000, while error: 0.048017 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 8, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 1.320000 in # of process: 8, with trial size 100, while error: 0.579831 in SERİAL EXECUTİON
+result: 2.472000 in # of process: 8, with trial size 1000, while error: 0.213138 in SERİAL EXECUTİON
+result: 2.324400 in # of process: 8, with trial size 10000, while error: 0.260121 in SERİAL EXECUTİON
+result: 2.554760 in # of process: 8, with trial size 100000, while error: 0.186795 in SERİAL EXECUTİON
+result: 2.701424 in # of process: 8, with trial size 1000000, while error: 0.140110 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.640000 in # of process: 16, with trial size 100, while error: 0.159662 in SERİAL EXECUTİON
+result: 2.808000 in # of process: 16, with trial size 1000, while error: 0.106186 in SERİAL EXECUTİON
+result: 2.842400 in # of process: 16, with trial size 10000, while error: 0.095236 in SERİAL EXECUTİON
+result: 2.904640 in # of process: 16, with trial size 100000, while error: 0.075424 in SERİAL EXECUTİON
+result: 3.173104 in # of process: 16, with trial size 1000000, while error: 0.010030 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.760000 in # of process: 32, with trial size 100, while error: 0.121465 in SERİAL EXECUTİON
+result: 2.908000 in # of process: 32, with trial size 1000, while error: 0.074355 in SERİAL EXECUTİON
+result: 3.177600 in # of process: 32, with trial size 10000, while error: 0.011461 in SERİAL EXECUTİON
+result: 3.184120 in # of process: 32, with trial size 100000, while error: 0.013537 in SERİAL EXECUTİON
+result: 2.692888 in # of process: 32, with trial size 1000000, while error: 0.142827 in SERİAL EXECUTİON
+result: 0.400000 in # of process: 1, with trial size 10, while error: 0.872676 in SERİAL EXECUTİON
+result: 0.040000 in # of process: 1, with trial size 100, while error: 0.987268 in SERİAL EXECUTİON
+result: 0.004000 in # of process: 1, with trial size 1000, while error: 0.998727 in SERİAL EXECUTİON
+result: 0.000400 in # of process: 1, with trial size 10000, while error: 0.999873 in SERİAL EXECUTİON
+result: 0.000040 in # of process: 1, with trial size 100000, while error: 0.999987 in SERİAL EXECUTİON
+result: 0.000004 in # of process: 1, with trial size 1000000, while error: 0.999999 in SERİAL EXECUTİON
+result: 1.600000 in # of process: 2, with trial size 10, while error: 0.490704 in SERİAL EXECUTİON
+result: 2.040000 in # of process: 2, with trial size 100, while error: 0.350648 in SERİAL EXECUTİON
+result: 2.176000 in # of process: 2, with trial size 1000, while error: 0.307358 in SERİAL EXECUTİON
+result: 2.038400 in # of process: 2, with trial size 10000, while error: 0.351157 in SERİAL EXECUTİON
+result: 2.419440 in # of process: 2, with trial size 100000, while error: 0.229868 in SERİAL EXECUTİON
+result: 3.292656 in # of process: 2, with trial size 1000000, while error: 0.048085 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.080000 in # of process: 4, with trial size 100, while error: 0.019606 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 1000, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.181600 in # of process: 4, with trial size 10000, while error: 0.012735 in SERİAL EXECUTİON
+result: 3.258720 in # of process: 4, with trial size 100000, while error: 0.037283 in SERİAL EXECUTİON
+result: 3.356352 in # of process: 4, with trial size 1000000, while error: 0.068360 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 1.920000 in # of process: 8, with trial size 100, while error: 0.388845 in SERİAL EXECUTİON
+result: 2.464000 in # of process: 8, with trial size 1000, while error: 0.215684 in SERİAL EXECUTİON
+result: 2.450400 in # of process: 8, with trial size 10000, while error: 0.220013 in SERİAL EXECUTİON
+result: 2.454840 in # of process: 8, with trial size 100000, while error: 0.218600 in SERİAL EXECUTİON
+result: 3.552160 in # of process: 8, with trial size 1000000, while error: 0.130688 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.280000 in # of process: 16, with trial size 100, while error: 0.044056 in SERİAL EXECUTİON
+result: 3.328000 in # of process: 16, with trial size 1000, while error: 0.059335 in SERİAL EXECUTİON
+result: 3.331600 in # of process: 16, with trial size 10000, while error: 0.060481 in SERİAL EXECUTİON
+result: 3.264040 in # of process: 16, with trial size 100000, while error: 0.038976 in SERİAL EXECUTİON
+result: 3.344304 in # of process: 16, with trial size 1000000, while error: 0.064525 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.400000 in # of process: 32, with trial size 100, while error: 0.082254 in SERİAL EXECUTİON
+result: 3.364000 in # of process: 32, with trial size 1000, while error: 0.070794 in SERİAL EXECUTİON
+result: 3.219600 in # of process: 32, with trial size 10000, while error: 0.024830 in SERİAL EXECUTİON
+result: 3.169080 in # of process: 32, with trial size 100000, while error: 0.008750 in SERİAL EXECUTİON
+result: 2.733840 in # of process: 32, with trial size 1000000, while error: 0.129792 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.378520 in # of process: 1, with trial size 100000, while error: 0.242894 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.720000 in # of process: 2, with trial size 100, while error: 0.184113 in SERİAL EXECUTİON
+result: 3.500000 in # of process: 2, with trial size 1000, while error: 0.114085 in SERİAL EXECUTİON
+result: 3.783600 in # of process: 2, with trial size 10000, while error: 0.204357 in SERİAL EXECUTİON
+result: 2.562640 in # of process: 2, with trial size 100000, while error: 0.184286 in SERİAL EXECUTİON
+result: 2.821148 in # of process: 2, with trial size 1000000, while error: 0.102001 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 4, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 2.980000 in # of process: 4, with trial size 1000, while error: 0.051437 in SERİAL EXECUTİON
+result: 2.962000 in # of process: 4, with trial size 10000, while error: 0.057166 in SERİAL EXECUTİON
+result: 3.929200 in # of process: 4, with trial size 100000, while error: 0.250703 in SERİAL EXECUTİON
+result: 3.242252 in # of process: 4, with trial size 1000000, while error: 0.032041 in SERİAL EXECUTİON
+result: 0.400000 in # of process: 8, with trial size 10, while error: 0.872676 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 8, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 2.492000 in # of process: 8, with trial size 1000, while error: 0.206772 in SERİAL EXECUTİON
+result: 2.626800 in # of process: 8, with trial size 10000, while error: 0.163864 in SERİAL EXECUTİON
+result: 2.634440 in # of process: 8, with trial size 100000, while error: 0.161432 in SERİAL EXECUTİON
+result: 2.640652 in # of process: 8, with trial size 1000000, while error: 0.159454 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 16, with trial size 100, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.064000 in # of process: 16, with trial size 1000, while error: 0.024699 in SERİAL EXECUTİON
+result: 3.094000 in # of process: 16, with trial size 10000, while error: 0.015149 in SERİAL EXECUTİON
+result: 3.095600 in # of process: 16, with trial size 100000, while error: 0.014640 in SERİAL EXECUTİON
+result: 3.152876 in # of process: 16, with trial size 1000000, while error: 0.003592 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.120000 in # of process: 32, with trial size 100, while error: 0.006873 in SERİAL EXECUTİON
+result: 3.184000 in # of process: 32, with trial size 1000, while error: 0.013499 in SERİAL EXECUTİON
+result: 3.239200 in # of process: 32, with trial size 10000, while error: 0.031069 in SERİAL EXECUTİON
+result: 3.283320 in # of process: 32, with trial size 100000, while error: 0.045113 in SERİAL EXECUTİON
+result: 3.755448 in # of process: 32, with trial size 1000000, while error: 0.195396 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100000, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.121904 in # of process: 1, with trial size 1000000, while error: 0.006267 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 2, with trial size 10, while error: 0.363380 in SERİAL EXECUTİON
+result: 2.040000 in # of process: 2, with trial size 100, while error: 0.350648 in SERİAL EXECUTİON
+result: 2.028000 in # of process: 2, with trial size 1000, while error: 0.354468 in SERİAL EXECUTİON
+result: 2.520000 in # of process: 2, with trial size 10000, while error: 0.197859 in SERİAL EXECUTİON
+result: 2.806720 in # of process: 2, with trial size 100000, while error: 0.106593 in SERİAL EXECUTİON
+result: 2.427932 in # of process: 2, with trial size 1000000, while error: 0.227165 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 4, with trial size 10, while error: 0.363380 in SERİAL EXECUTİON
+result: 1.960000 in # of process: 4, with trial size 100, while error: 0.376113 in SERİAL EXECUTİON
+result: 2.200000 in # of process: 4, with trial size 1000, while error: 0.299718 in SERİAL EXECUTİON
+result: 2.146800 in # of process: 4, with trial size 10000, while error: 0.316652 in SERİAL EXECUTİON
+result: 2.264760 in # of process: 4, with trial size 100000, while error: 0.279104 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 in SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 in SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 in SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 in SERİAL EXECUTİON
+result: 3.995916 in # of process: 1, with trial size 1000000, while error: 0.271940 in SERİAL EXECUTİON
+result: 0.400000 in # of process: 2, with trial size 10, while error: 0.872676 in SERİAL EXECUTİON
+result: 1.240000 in # of process: 2, with trial size 100, while error: 0.605296 in SERİAL EXECUTİON
+result: 1.472000 in # of process: 2, with trial size 1000, while error: 0.531448 in SERİAL EXECUTİON
+result: 0.756400 in # of process: 2, with trial size 10000, while error: 0.759230 in SERİAL EXECUTİON
+result: 1.615680 in # of process: 2, with trial size 100000, while error: 0.485713 in SERİAL EXECUTİON
+result: 2.975480 in # of process: 2, with trial size 1000000, while error: 0.052875 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 4, with trial size 100, while error: 0.032338 in SERİAL EXECUTİON
+result: 2.780000 in # of process: 4, with trial size 1000, while error: 0.115099 in SERİAL EXECUTİON
+result: 3.368400 in # of process: 4, with trial size 10000, while error: 0.072195 in SERİAL EXECUTİON
+result: 3.836480 in # of process: 4, with trial size 100000, while error: 0.221189 in SERİAL EXECUTİON
+result: 3.609104 in # of process: 4, with trial size 1000000, while error: 0.148813 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.640000 in # of process: 8, with trial size 100, while error: 0.158648 in SERİAL EXECUTİON
+result: 3.752000 in # of process: 8, with trial size 1000, while error: 0.194299 in SERİAL EXECUTİON
+result: 3.764400 in # of process: 8, with trial size 10000, while error: 0.198246 in SERİAL EXECUTİON
+result: 3.772560 in # of process: 8, with trial size 100000, while error: 0.200843 in SERİAL EXECUTİON
+result: 2.970448 in # of process: 8, with trial size 1000000, while error: 0.054477 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.080000 in # of process: 16, with trial size 100, while error: 0.019606 in SERİAL EXECUTİON
+result: 3.132000 in # of process: 16, with trial size 1000, while error: 0.003053 in SERİAL EXECUTİON
+result: 3.106800 in # of process: 16, with trial size 10000, while error: 0.011075 in SERİAL EXECUTİON
+result: 3.066880 in # of process: 16, with trial size 100000, while error: 0.023782 in SERİAL EXECUTİON
+result: 3.088164 in # of process: 16, with trial size 1000000, while error: 0.017007 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.520000 in # of process: 32, with trial size 100, while error: 0.197859 in SERİAL EXECUTİON
+result: 3.000000 in # of process: 32, with trial size 1000, while error: 0.045070 in SERİAL EXECUTİON
+result: 3.068000 in # of process: 32, with trial size 10000, while error: 0.023425 in SERİAL EXECUTİON
+result: 3.104560 in # of process: 32, with trial size 100000, while error: 0.011788 in SERİAL EXECUTİON
+result: 2.790424 in # of process: 32, with trial size 1000000, while error: 0.111780 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.840000 in # of process: 2, with trial size 100, while error: 0.222310 in SERİAL EXECUTİON
+result: 3.980000 in # of process: 2, with trial size 1000, while error: 0.266873 in SERİAL EXECUTİON
+result: 3.454800 in # of process: 2, with trial size 10000, while error: 0.099697 in SERİAL EXECUTİON
+result: 3.208560 in # of process: 2, with trial size 100000, while error: 0.021316 in SERİAL EXECUTİON
+result: 3.098560 in # of process: 2, with trial size 1000000, while error: 0.013698 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 2.760000 in # of process: 4, with trial size 100, while error: 0.121465 in SERİAL EXECUTİON
+result: 2.824000 in # of process: 4, with trial size 1000, while error: 0.101093 in SERİAL EXECUTİON
+result: 2.729600 in # of process: 4, with trial size 10000, while error: 0.131141 in SERİAL EXECUTİON
+result: 2.795360 in # of process: 4, with trial size 100000, while error: 0.110209 in SERİAL EXECUTİON
+result: 3.109720 in # of process: 4, with trial size 1000000, while error: 0.010145 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.240000 in # of process: 8, with trial size 100, while error: 0.031324 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 8, with trial size 1000, while error: 0.057803 in SERİAL EXECUTİON
+result: 2.967600 in # of process: 8, with trial size 10000, while error: 0.055384 in SERİAL EXECUTİON
+result: 3.028760 in # of process: 8, with trial size 100000, while error: 0.035916 in SERİAL EXECUTİON
+result: 3.404900 in # of process: 8, with trial size 1000000, while error: 0.083813 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 1.560000 in # of process: 16, with trial size 100, while error: 0.503437 in SERİAL EXECUTİON
+result: 2.676000 in # of process: 16, with trial size 1000, while error: 0.148203 in SERİAL EXECUTİON
+result: 2.760400 in # of process: 16, with trial size 10000, while error: 0.121337 in SERİAL EXECUTİON
+result: 3.038640 in # of process: 16, with trial size 100000, while error: 0.032771 in SERİAL EXECUTİON
+result: 3.413336 in # of process: 16, with trial size 1000000, while error: 0.086499 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.560000 in # of process: 32, with trial size 100, while error: 0.133183 in SERİAL EXECUTİON
+result: 3.664000 in # of process: 32, with trial size 1000, while error: 0.166287 in SERİAL EXECUTİON
+result: 3.691200 in # of process: 32, with trial size 10000, while error: 0.174945 in SERİAL EXECUTİON
+result: 3.679280 in # of process: 32, with trial size 100000, while error: 0.171151 in SERİAL EXECUTİON
+result: 3.056524 in # of process: 32, with trial size 1000000, while error: 0.027078 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 0.529388 in # of process: 1, with trial size 1000000, while error: 0.831491 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 2, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 2.120000 in # of process: 2, with trial size 100, while error: 0.325183 in SERİAL EXECUTİON
+result: 2.056000 in # of process: 2, with trial size 1000, while error: 0.345555 in SERİAL EXECUTİON
+result: 2.002000 in # of process: 2, with trial size 10000, while error: 0.362744 in SERİAL EXECUTİON
+result: 2.575320 in # of process: 2, with trial size 100000, while error: 0.180250 in SERİAL EXECUTİON
+result: 3.260496 in # of process: 2, with trial size 1000000, while error: 0.037848 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 2.920000 in # of process: 4, with trial size 100, while error: 0.070535 in SERİAL EXECUTİON
+result: 2.912000 in # of process: 4, with trial size 1000, while error: 0.073082 in SERİAL EXECUTİON
+result: 2.811200 in # of process: 4, with trial size 10000, while error: 0.105167 in SERİAL EXECUTİON
+result: 2.851200 in # of process: 4, with trial size 100000, while error: 0.092435 in SERİAL EXECUTİON
+result: 3.572036 in # of process: 4, with trial size 1000000, while error: 0.137014 in SERİAL EXECUTİON
+result: 3.200000 in # of process: 8, with trial size 10, while error: 0.018592 in SERİAL EXECUTİON
+result: 3.760000 in # of process: 8, with trial size 100, while error: 0.196845 in SERİAL EXECUTİON
+result: 3.828000 in # of process: 8, with trial size 1000, while error: 0.218490 in SERİAL EXECUTİON
+result: 3.819600 in # of process: 8, with trial size 10000, while error: 0.215816 in SERİAL EXECUTİON
+result: 3.828280 in # of process: 8, with trial size 100000, while error: 0.218579 in SERİAL EXECUTİON
+result: 3.122428 in # of process: 8, with trial size 1000000, while error: 0.006100 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.800000 in # of process: 16, with trial size 100, while error: 0.209578 in SERİAL EXECUTİON
+result: 3.636000 in # of process: 16, with trial size 1000, while error: 0.157375 in SERİAL EXECUTİON
+result: 3.635200 in # of process: 16, with trial size 10000, while error: 0.157120 in SERİAL EXECUTİON
+result: 3.555080 in # of process: 16, with trial size 100000, while error: 0.131617 in SERİAL EXECUTİON
+result: 3.218976 in # of process: 16, with trial size 1000000, while error: 0.024632 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 2.960000 in # of process: 32, with trial size 100, while error: 0.057803 in SERİAL EXECUTİON
+result: 3.040000 in # of process: 32, with trial size 1000, while error: 0.032338 in SERİAL EXECUTİON
+result: 2.940000 in # of process: 32, with trial size 10000, while error: 0.064169 in SERİAL EXECUTİON
+result: 3.015280 in # of process: 32, with trial size 100000, while error: 0.040207 in SERİAL EXECUTİON
+result: 2.731140 in # of process: 32, with trial size 1000000, while error: 0.130651 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 1000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 10000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 1, with trial size 100000, while error: 1.000000 in SERİAL EXECUTİON
+result: 0.252980 in # of process: 1, with trial size 1000000, while error: 0.919474 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.747860 in # of process: 2, with trial size 1000000, while error: 0.192981 in SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 in SERİAL EXECUTİON
+result: 3.080000 in # of process: 4, with trial size 100, while error: 0.019606 in SERİAL EXECUTİON
+result: 3.012000 in # of process: 4, with trial size 1000, while error: 0.041251 in SERİAL EXECUTİON
+result: 2.986400 in # of process: 4, with trial size 10000, while error: 0.049399 in SERİAL EXECUTİON
+result: 3.026440 in # of process: 4, with trial size 100000, while error: 0.036654 in SERİAL EXECUTİON
+result: 2.615152 in # of process: 4, with trial size 1000000, while error: 0.167571 in SERİAL EXECUTİON
+result: 0.800000 in # of process: 8, with trial size 10, while error: 0.745352 in SERİAL EXECUTİON
+result: 1.320000 in # of process: 8, with trial size 100, while error: 0.579831 in SERİAL EXECUTİON
+result: 2.128000 in # of process: 8, with trial size 1000, while error: 0.322637 in SERİAL EXECUTİON
+result: 2.147600 in # of process: 8, with trial size 10000, while error: 0.316398 in SERİAL EXECUTİON
+result: 2.199760 in # of process: 8, with trial size 100000, while error: 0.299795 in SERİAL EXECUTİON
+result: 2.628236 in # of process: 8, with trial size 1000000, while error: 0.163406 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.360000 in # of process: 16, with trial size 100, while error: 0.069521 in SERİAL EXECUTİON
+result: 3.548000 in # of process: 16, with trial size 1000, while error: 0.129364 in SERİAL EXECUTİON
+result: 3.560400 in # of process: 16, with trial size 10000, while error: 0.133311 in SERİAL EXECUTİON
+result: 3.562200 in # of process: 16, with trial size 100000, while error: 0.133883 in SERİAL EXECUTİON
+result: 3.204924 in # of process: 16, with trial size 1000000, while error: 0.020159 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 1.680000 in # of process: 32, with trial size 100, while error: 0.465239 in SERİAL EXECUTİON
+result: 2.572000 in # of process: 32, with trial size 1000, while error: 0.181307 in SERİAL EXECUTİON
+result: 2.636000 in # of process: 32, with trial size 10000, while error: 0.160935 in SERİAL EXECUTİON
+result: 2.683760 in # of process: 32, with trial size 100000, while error: 0.145733 in SERİAL EXECUTİON
+result: 2.979604 in # of process: 32, with trial size 1000000, while error: 0.051563 in SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 in SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 in SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 in SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 in SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 in SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 2.995480 in # of process: 2, with trial size 1000000, while error: 0.046509 in SERİAL EXECUTİON
+result: 2.000000 in # of process: 4, with trial size 10, while error: 0.363380 in SERİAL EXECUTİON
+result: 2.520000 in # of process: 4, with trial size 100, while error: 0.197859 in SERİAL EXECUTİON
+result: 2.704000 in # of process: 4, with trial size 1000, while error: 0.139290 in SERİAL EXECUTİON
+result: 2.790400 in # of process: 4, with trial size 10000, while error: 0.111788 in SERİAL EXECUTİON
+result: 2.802400 in # of process: 4, with trial size 100000, while error: 0.107968 in SERİAL EXECUTİON
+result: 2.562720 in # of process: 4, with trial size 1000000, while error: 0.184261 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.800000 in # of process: 8, with trial size 100, while error: 0.209578 in SERİAL EXECUTİON
+result: 3.624000 in # of process: 8, with trial size 1000, while error: 0.153555 in SERİAL EXECUTİON
+result: 3.647200 in # of process: 8, with trial size 10000, while error: 0.160940 in SERİAL EXECUTİON
+result: 3.319880 in # of process: 8, with trial size 100000, while error: 0.056751 in SERİAL EXECUTİON
+result: 3.689904 in # of process: 8, with trial size 1000000, while error: 0.174533 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.800000 in # of process: 16, with trial size 100, while error: 0.209578 in SERİAL EXECUTİON
+result: 3.824000 in # of process: 16, with trial size 1000, while error: 0.217217 in SERİAL EXECUTİON
+result: 3.815600 in # of process: 16, with trial size 10000, while error: 0.214543 in SERİAL EXECUTİON
+result: 3.805040 in # of process: 16, with trial size 100000, while error: 0.211182 in SERİAL EXECUTİON
+result: 2.440328 in # of process: 16, with trial size 1000000, while error: 0.223220 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.680000 in # of process: 32, with trial size 100, while error: 0.171380 in SERİAL EXECUTİON
+result: 3.244000 in # of process: 32, with trial size 1000, while error: 0.032597 in SERİAL EXECUTİON
+result: 3.186800 in # of process: 32, with trial size 10000, while error: 0.014390 in SERİAL EXECUTİON
+result: 3.134000 in # of process: 32, with trial size 100000, while error: 0.002417 in SERİAL EXECUTİON
+result: 3.202600 in # of process: 32, with trial size 1000000, while error: 0.019419 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 in SERİAL EXECUTİON
+result: 3.999960 in # of process: 2, with trial size 100000, while error: 0.273227 in SERİAL EXECUTİON
+result: 2.732712 in # of process: 2, with trial size 1000000, while error: 0.130151 in SERİAL EXECUTİON
+result: 1.600000 in # of process: 4, with trial size 10, while error: 0.490704 in SERİAL EXECUTİON
+result: 1.320000 in # of process: 4, with trial size 100, while error: 0.579831 in SERİAL EXECUTİON
+result: 1.692000 in # of process: 4, with trial size 1000, while error: 0.461420 in SERİAL EXECUTİON
+result: 1.363200 in # of process: 4, with trial size 10000, while error: 0.566080 in SERİAL EXECUTİON
+result: 1.794920 in # of process: 4, with trial size 100000, while error: 0.428659 in SERİAL EXECUTİON
+result: 3.267108 in # of process: 4, with trial size 1000000, while error: 0.039953 in SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 in SERİAL EXECUTİON
+result: 3.320000 in # of process: 8, with trial size 100, while error: 0.056789 in SERİAL EXECUTİON
+result: 3.396000 in # of process: 8, with trial size 1000, while error: 0.080980 in SERİAL EXECUTİON
+result: 3.387200 in # of process: 8, with trial size 10000, while error: 0.078179 in SERİAL EXECUTİON
+result: 3.393120 in # of process: 8, with trial size 100000, while error: 0.080064 in SERİAL EXECUTİON
+result: 3.150212 in # of process: 8, with trial size 1000000, while error: 0.002744 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 1.640000 in # of process: 16, with trial size 100, while error: 0.477972 in SERİAL EXECUTİON
+result: 1.876000 in # of process: 16, with trial size 1000, while error: 0.402851 in SERİAL EXECUTİON
+result: 1.910400 in # of process: 16, with trial size 10000, while error: 0.391901 in SERİAL EXECUTİON
+result: 2.079880 in # of process: 16, with trial size 100000, while error: 0.337954 in SERİAL EXECUTİON
+result: 3.290096 in # of process: 16, with trial size 1000000, while error: 0.047270 in SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 in SERİAL EXECUTİON
+result: 3.480000 in # of process: 32, with trial size 100, while error: 0.107718 in SERİAL EXECUTİON
+result: 2.640000 in # of process: 32, with trial size 1000, while error: 0.159662 in SERİAL EXECUTİON
+result: 2.608000 in # of process: 32, with trial size 10000, while error: 0.169848 in SERİAL EXECUTİON
+result: 2.585400 in # of process: 32, with trial size 100000, while error: 0.177042 in SERİAL EXECUTİON
+result: 3.370164 in # of process: 32, with trial size 1000000, while error: 0.072756 in SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 elapsed time: 24 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 elapsed time: 29 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 elapsed time: 25 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 elapsed time: 24 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 elapsed time: 27 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 elapsed time: 21 İN SERİAL EXECUTİON
+result: 2.000000 in # of process: 2, with trial size 10, while error: 0.363380 elapsed time: 54 İN SERİAL EXECUTİON
+result: 2.560000 in # of process: 2, with trial size 100, while error: 0.185127 elapsed time: 63 İN SERİAL EXECUTİON
+result: 2.032000 in # of process: 2, with trial size 1000, while error: 0.353194 elapsed time: 35 İN SERİAL EXECUTİON
+result: 2.010000 in # of process: 2, with trial size 10000, while error: 0.360197 elapsed time: 34 İN SERİAL EXECUTİON
+result: 2.297200 in # of process: 2, with trial size 100000, while error: 0.268779 elapsed time: 58 İN SERİAL EXECUTİON
+result: 3.624384 in # of process: 2, with trial size 1000000, while error: 0.153677 elapsed time: 65 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 10, while error: 0.018592 elapsed time: 221 İN SERİAL EXECUTİON
+result: 3.960000 in # of process: 4, with trial size 100, while error: 0.260507 elapsed time: 90 İN SERİAL EXECUTİON
+result: 3.908000 in # of process: 4, with trial size 1000, while error: 0.243955 elapsed time: 104 İN SERİAL EXECUTİON
+result: 3.920800 in # of process: 4, with trial size 10000, while error: 0.248029 elapsed time: 83 İN SERİAL EXECUTİON
+result: 3.886840 in # of process: 4, with trial size 100000, while error: 0.237220 elapsed time: 68 İN SERİAL EXECUTİON
+result: 3.752980 in # of process: 4, with trial size 1000000, while error: 0.194611 elapsed time: 133 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 569 İN SERİAL EXECUTİON
+result: 3.240000 in # of process: 8, with trial size 100, while error: 0.031324 elapsed time: 177 İN SERİAL EXECUTİON
+result: 3.076000 in # of process: 8, with trial size 1000, while error: 0.020879 elapsed time: 209 İN SERİAL EXECUTİON
+result: 3.054400 in # of process: 8, with trial size 10000, while error: 0.027754 elapsed time: 244 İN SERİAL EXECUTİON
+result: 3.011440 in # of process: 8, with trial size 100000, while error: 0.041429 elapsed time: 167 İN SERİAL EXECUTİON
+result: 3.224056 in # of process: 8, with trial size 1000000, while error: 0.026249 elapsed time: 163 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 383 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 16, with trial size 100, while error: 0.145916 elapsed time: 289 İN SERİAL EXECUTİON
+result: 3.020000 in # of process: 16, with trial size 1000, while error: 0.038704 elapsed time: 329 İN SERİAL EXECUTİON
+result: 3.051600 in # of process: 16, with trial size 10000, while error: 0.028646 elapsed time: 310 İN SERİAL EXECUTİON
+result: 2.840240 in # of process: 16, with trial size 100000, while error: 0.095924 elapsed time: 291 İN SERİAL EXECUTİON
+result: 2.910476 in # of process: 16, with trial size 1000000, while error: 0.073567 elapsed time: 365 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 646 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 32, with trial size 100, while error: 0.145916 elapsed time: 723 İN SERİAL EXECUTİON
+result: 3.668000 in # of process: 32, with trial size 1000, while error: 0.167561 elapsed time: 658 İN SERİAL EXECUTİON
+result: 3.697600 in # of process: 32, with trial size 10000, while error: 0.176983 elapsed time: 610 İN SERİAL EXECUTİON
+result: 3.687600 in # of process: 32, with trial size 100000, while error: 0.173800 elapsed time: 686 İN SERİAL EXECUTİON
+result: 3.502220 in # of process: 32, with trial size 1000000, while error: 0.114791 elapsed time: 683 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 elapsed time: 27 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 elapsed time: 32 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 elapsed time: 27 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 elapsed time: 25 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 elapsed time: 23 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 elapsed time: 18 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 elapsed time: 33 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 elapsed time: 53 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 elapsed time: 59 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 elapsed time: 53 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100000, while error: 0.273240 elapsed time: 43 İN SERİAL EXECUTİON
+result: 3.286008 in # of process: 2, with trial size 1000000, while error: 0.045969 elapsed time: 57 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 10, while error: 0.018592 elapsed time: 132 İN SERİAL EXECUTİON
+result: 3.920000 in # of process: 4, with trial size 100, while error: 0.247775 elapsed time: 109 İN SERİAL EXECUTİON
+result: 3.080000 in # of process: 4, with trial size 1000, while error: 0.019606 elapsed time: 121 İN SERİAL EXECUTİON
+result: 3.336800 in # of process: 4, with trial size 10000, while error: 0.062136 elapsed time: 96 İN SERİAL EXECUTİON
+result: 3.151800 in # of process: 4, with trial size 100000, while error: 0.003249 elapsed time: 96 İN SERİAL EXECUTİON
+result: 3.386916 in # of process: 4, with trial size 1000000, while error: 0.078089 elapsed time: 108 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 226 İN SERİAL EXECUTİON
+result: 3.120000 in # of process: 8, with trial size 100, while error: 0.006873 elapsed time: 192 İN SERİAL EXECUTİON
+result: 3.104000 in # of process: 8, with trial size 1000, while error: 0.011966 elapsed time: 160 İN SERİAL EXECUTİON
+result: 3.047600 in # of process: 8, with trial size 10000, while error: 0.029919 elapsed time: 207 İN SERİAL EXECUTİON
+result: 3.140400 in # of process: 8, with trial size 100000, while error: 0.000380 elapsed time: 244 İN SERİAL EXECUTİON
+result: 2.996980 in # of process: 8, with trial size 1000000, while error: 0.046032 elapsed time: 221 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 412 İN SERİAL EXECUTİON
+result: 3.800000 in # of process: 16, with trial size 100, while error: 0.209578 elapsed time: 253 İN SERİAL EXECUTİON
+result: 3.248000 in # of process: 16, with trial size 1000, while error: 0.033870 elapsed time: 291 İN SERİAL EXECUTİON
+result: 3.155200 in # of process: 16, with trial size 10000, while error: 0.004331 elapsed time: 305 İN SERİAL EXECUTİON
+result: 3.038040 in # of process: 16, with trial size 100000, while error: 0.032962 elapsed time: 296 İN SERİAL EXECUTİON
+result: 3.044796 in # of process: 16, with trial size 1000000, while error: 0.030811 elapsed time: 382 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 609 İN SERİAL EXECUTİON
+result: 2.920000 in # of process: 32, with trial size 100, while error: 0.070535 elapsed time: 637 İN SERİAL EXECUTİON
+result: 3.012000 in # of process: 32, with trial size 1000, while error: 0.041251 elapsed time: 705 İN SERİAL EXECUTİON
+result: 3.056800 in # of process: 32, with trial size 10000, while error: 0.026990 elapsed time: 638 İN SERİAL EXECUTİON
+result: 3.060360 in # of process: 32, with trial size 100000, while error: 0.025857 elapsed time: 750 İN SERİAL EXECUTİON
+result: 3.035984 in # of process: 32, with trial size 1000000, while error: 0.033616 elapsed time: 775 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 elapsed time: 24 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 elapsed time: 26 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 elapsed time: 23 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 elapsed time: 33 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.439640 in # of process: 1, with trial size 1000000, while error: 0.094871 elapsed time: 22 İN SERİAL EXECUTİON
+result: 2.000000 in # of process: 2, with trial size 10, while error: 0.363380 elapsed time: 71 İN SERİAL EXECUTİON
+result: 2.080000 in # of process: 2, with trial size 100, while error: 0.337915 elapsed time: 75 İN SERİAL EXECUTİON
+result: 2.024000 in # of process: 2, with trial size 1000, while error: 0.355741 elapsed time: 52 İN SERİAL EXECUTİON
+result: 1.999600 in # of process: 2, with trial size 10000, while error: 0.363508 elapsed time: 30 İN SERİAL EXECUTİON
+result: 2.424520 in # of process: 2, with trial size 100000, while error: 0.228251 elapsed time: 75 İN SERİAL EXECUTİON
+result: 3.168608 in # of process: 2, with trial size 1000000, while error: 0.008599 elapsed time: 60 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 elapsed time: 134 İN SERİAL EXECUTİON
+result: 3.040000 in # of process: 4, with trial size 100, while error: 0.032338 elapsed time: 125 İN SERİAL EXECUTİON
+result: 3.004000 in # of process: 4, with trial size 1000, while error: 0.043797 elapsed time: 124 İN SERİAL EXECUTİON
+result: 2.873600 in # of process: 4, with trial size 10000, while error: 0.085305 elapsed time: 102 İN SERİAL EXECUTİON
+result: 3.014320 in # of process: 4, with trial size 100000, while error: 0.040512 elapsed time: 110 İN SERİAL EXECUTİON
+result: 2.994360 in # of process: 4, with trial size 1000000, while error: 0.046866 elapsed time: 111 İN SERİAL EXECUTİON
+result: 1.200000 in # of process: 8, with trial size 10, while error: 0.618028 elapsed time: 231 İN SERİAL EXECUTİON
+result: 1.560000 in # of process: 8, with trial size 100, while error: 0.503437 elapsed time: 178 İN SERİAL EXECUTİON
+result: 2.288000 in # of process: 8, with trial size 1000, while error: 0.271707 elapsed time: 144 İN SERİAL EXECUTİON
+result: 2.294400 in # of process: 8, with trial size 10000, while error: 0.269670 elapsed time: 139 İN SERİAL EXECUTİON
+result: 2.349960 in # of process: 8, with trial size 100000, while error: 0.251984 elapsed time: 207 İN SERİAL EXECUTİON
+result: 3.124928 in # of process: 8, with trial size 1000000, while error: 0.005305 elapsed time: 222 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 446 İN SERİAL EXECUTİON
+result: 3.360000 in # of process: 16, with trial size 100, while error: 0.069521 elapsed time: 261 İN SERİAL EXECUTİON
+result: 3.320000 in # of process: 16, with trial size 1000, while error: 0.056789 elapsed time: 332 İN SERİAL EXECUTİON
+result: 3.370800 in # of process: 16, with trial size 10000, while error: 0.072959 elapsed time: 295 İN SERİAL EXECUTİON
+result: 3.334760 in # of process: 16, with trial size 100000, while error: 0.061487 elapsed time: 310 İN SERİAL EXECUTİON
+result: 3.351100 in # of process: 16, with trial size 1000000, while error: 0.066688 elapsed time: 647 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 768 İN SERİAL EXECUTİON
+result: 3.520000 in # of process: 32, with trial size 100, while error: 0.120451 elapsed time: 775 İN SERİAL EXECUTİON
+result: 3.316000 in # of process: 32, with trial size 1000, while error: 0.055516 elapsed time: 667 İN SERİAL EXECUTİON
+result: 3.396800 in # of process: 32, with trial size 10000, while error: 0.081235 elapsed time: 643 İN SERİAL EXECUTİON
+result: 3.353280 in # of process: 32, with trial size 100000, while error: 0.067382 elapsed time: 779 İN SERİAL EXECUTİON
+result: 3.443368 in # of process: 32, with trial size 1000000, while error: 0.096058 elapsed time: 673 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 elapsed time: 23 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 elapsed time: 44 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 elapsed time: 24 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 elapsed time: 25 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 elapsed time: 25 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 elapsed time: 21 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 elapsed time: 55 İN SERİAL EXECUTİON
+result: 3.920000 in # of process: 2, with trial size 100, while error: 0.247775 elapsed time: 54 İN SERİAL EXECUTİON
+result: 3.992000 in # of process: 2, with trial size 1000, while error: 0.270693 elapsed time: 62 İN SERİAL EXECUTİON
+result: 3.537600 in # of process: 2, with trial size 10000, while error: 0.126053 elapsed time: 33 İN SERİAL EXECUTİON
+result: 2.859320 in # of process: 2, with trial size 100000, while error: 0.089850 elapsed time: 35 İN SERİAL EXECUTİON
+result: 3.021176 in # of process: 2, with trial size 1000000, while error: 0.038330 elapsed time: 73 İN SERİAL EXECUTİON
+result: 2.000000 in # of process: 4, with trial size 10, while error: 0.363380 elapsed time: 160 İN SERİAL EXECUTİON
+result: 3.000000 in # of process: 4, with trial size 100, while error: 0.045070 elapsed time: 62 İN SERİAL EXECUTİON
+result: 3.148000 in # of process: 4, with trial size 1000, while error: 0.002040 elapsed time: 130 İN SERİAL EXECUTİON
+result: 3.009600 in # of process: 4, with trial size 10000, while error: 0.042015 elapsed time: 81 İN SERİAL EXECUTİON
+result: 3.259040 in # of process: 4, with trial size 100000, while error: 0.037385 elapsed time: 75 İN SERİAL EXECUTİON
+result: 2.970756 in # of process: 4, with trial size 1000000, while error: 0.054379 elapsed time: 107 İN SERİAL EXECUTİON
+result: 2.000000 in # of process: 8, with trial size 10, while error: 0.363380 elapsed time: 207 İN SERİAL EXECUTİON
+result: 2.440000 in # of process: 8, with trial size 100, while error: 0.223324 elapsed time: 229 İN SERİAL EXECUTİON
+result: 2.936000 in # of process: 8, with trial size 1000, while error: 0.065442 elapsed time: 165 İN SERİAL EXECUTİON
+result: 2.979600 in # of process: 8, with trial size 10000, while error: 0.051564 elapsed time: 223 İN SERİAL EXECUTİON
+result: 3.032160 in # of process: 8, with trial size 100000, while error: 0.034833 elapsed time: 142 İN SERİAL EXECUTİON
+result: 2.901232 in # of process: 8, with trial size 1000000, while error: 0.076509 elapsed time: 218 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 396 İN SERİAL EXECUTİON
+result: 3.360000 in # of process: 16, with trial size 100, while error: 0.069521 elapsed time: 316 İN SERİAL EXECUTİON
+result: 3.332000 in # of process: 16, with trial size 1000, while error: 0.060609 elapsed time: 288 İN SERİAL EXECUTİON
+result: 3.444800 in # of process: 16, with trial size 10000, while error: 0.096514 elapsed time: 287 İN SERİAL EXECUTİON
+result: 3.359960 in # of process: 16, with trial size 100000, while error: 0.069509 elapsed time: 314 İN SERİAL EXECUTİON
+result: 2.946560 in # of process: 16, with trial size 1000000, while error: 0.062081 elapsed time: 361 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 806 İN SERİAL EXECUTİON
+result: 2.200000 in # of process: 32, with trial size 100, while error: 0.299718 elapsed time: 826 İN SERİAL EXECUTİON
+result: 2.980000 in # of process: 32, with trial size 1000, while error: 0.051437 elapsed time: 669 İN SERİAL EXECUTİON
+result: 2.971600 in # of process: 32, with trial size 10000, while error: 0.054110 elapsed time: 636 İN SERİAL EXECUTİON
+result: 3.157720 in # of process: 32, with trial size 100000, while error: 0.005134 elapsed time: 868 İN SERİAL EXECUTİON
+result: 3.208276 in # of process: 32, with trial size 1000000, while error: 0.021226 elapsed time: 6868 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 elapsed time: 33 İN SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 elapsed time: 25 İN SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 elapsed time: 22 İN SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 elapsed time: 22 İN SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 elapsed time: 31 İN SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 elapsed time: 37 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 elapsed time: 53 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100, while error: 0.273240 elapsed time: 32 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 1000, while error: 0.273240 elapsed time: 39 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10000, while error: 0.273240 elapsed time: 52 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 100000, while error: 0.273240 elapsed time: 95 İN SERİAL EXECUTİON
+result: 3.126076 in # of process: 2, with trial size 1000000, while error: 0.004939 elapsed time: 52 İN SERİAL EXECUTİON
+result: 1.200000 in # of process: 4, with trial size 10, while error: 0.618028 elapsed time: 143 İN SERİAL EXECUTİON
+result: 1.280000 in # of process: 4, with trial size 100, while error: 0.592563 elapsed time: 88 İN SERİAL EXECUTİON
+result: 1.644000 in # of process: 4, with trial size 1000, while error: 0.476699 elapsed time: 64 İN SERİAL EXECUTİON
+result: 1.807600 in # of process: 4, with trial size 10000, while error: 0.424623 elapsed time: 86 İN SERİAL EXECUTİON
+result: 1.821720 in # of process: 4, with trial size 100000, while error: 0.420129 elapsed time: 107 İN SERİAL EXECUTİON
+result: 2.908128 in # of process: 4, with trial size 1000000, while error: 0.074314 elapsed time: 102 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 224 İN SERİAL EXECUTİON
+result: 2.840000 in # of process: 8, with trial size 100, while error: 0.096000 elapsed time: 285 İN SERİAL EXECUTİON
+result: 2.944000 in # of process: 8, with trial size 1000, while error: 0.062896 elapsed time: 193 İN SERİAL EXECUTİON
+result: 3.028000 in # of process: 8, with trial size 10000, while error: 0.036158 elapsed time: 177 İN SERİAL EXECUTİON
+result: 2.721280 in # of process: 8, with trial size 100000, while error: 0.133790 elapsed time: 148 İN SERİAL EXECUTİON
+result: 3.112456 in # of process: 8, with trial size 1000000, while error: 0.009274 elapsed time: 212 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 337 İN SERİAL EXECUTİON
+result: 3.760000 in # of process: 16, with trial size 100, while error: 0.196845 elapsed time: 330 İN SERİAL EXECUTİON
+result: 3.636000 in # of process: 16, with trial size 1000, while error: 0.157375 elapsed time: 398 İN SERİAL EXECUTİON
+result: 3.598000 in # of process: 16, with trial size 10000, while error: 0.145279 elapsed time: 323 İN SERİAL EXECUTİON
+result: 3.575040 in # of process: 16, with trial size 100000, while error: 0.137971 elapsed time: 283 İN SERİAL EXECUTİON
+result: 2.661148 in # of process: 16, with trial size 1000000, while error: 0.152930 elapsed time: 330 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 870 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 32, with trial size 100, while error: 0.083267 elapsed time: 562 İN SERİAL EXECUTİON
+result: 3.268000 in # of process: 32, with trial size 1000, while error: 0.040237 elapsed time: 618 İN SERİAL EXECUTİON
+result: 3.341600 in # of process: 32, with trial size 10000, while error: 0.063664 elapsed time: 619 İN SERİAL EXECUTİON
+result: 3.345640 in # of process: 32, with trial size 100000, while error: 0.064950 elapsed time: 579 İN SERİAL EXECUTİON
+result: 2.976736 in # of process: 32, with trial size 1000000, while error: 0.052475 elapsed time: 686 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 elapsed time: 24 İN SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 elapsed time: 27 İN SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 elapsed time: 32 İN SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 elapsed time: 27 İN SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 elapsed time: 29 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 elapsed time: 20 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 2, with trial size 10, while error: 0.273240 elapsed time: 52 İN SERİAL EXECUTİON
+result: 3.920000 in # of process: 2, with trial size 100, while error: 0.247775 elapsed time: 63 İN SERİAL EXECUTİON
+result: 3.380000 in # of process: 2, with trial size 1000, while error: 0.075887 elapsed time: 59 İN SERİAL EXECUTİON
+result: 3.964000 in # of process: 2, with trial size 10000, while error: 0.261780 elapsed time: 54 İN SERİAL EXECUTİON
+result: 2.964480 in # of process: 2, with trial size 100000, while error: 0.056377 elapsed time: 79 İN SERİAL EXECUTİON
+result: 3.129296 in # of process: 2, with trial size 1000000, while error: 0.003914 elapsed time: 50 İN SERİAL EXECUTİON
+result: 2.800000 in # of process: 4, with trial size 10, while error: 0.108732 elapsed time: 130 İN SERİAL EXECUTİON
+result: 3.920000 in # of process: 4, with trial size 100, while error: 0.247775 elapsed time: 102 İN SERİAL EXECUTİON
+result: 3.896000 in # of process: 4, with trial size 1000, while error: 0.240135 elapsed time: 82 İN SERİAL EXECUTİON
+result: 3.922800 in # of process: 4, with trial size 10000, while error: 0.248666 elapsed time: 111 İN SERİAL EXECUTİON
+result: 3.881960 in # of process: 4, with trial size 100000, while error: 0.235666 elapsed time: 109 İN SERİAL EXECUTİON
+result: 3.205520 in # of process: 4, with trial size 1000000, while error: 0.020349 elapsed time: 126 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 184 İN SERİAL EXECUTİON
+result: 2.960000 in # of process: 8, with trial size 100, while error: 0.057803 elapsed time: 228 İN SERİAL EXECUTİON
+result: 2.984000 in # of process: 8, with trial size 1000, while error: 0.050163 elapsed time: 150 İN SERİAL EXECUTİON
+result: 2.982400 in # of process: 8, with trial size 10000, while error: 0.050673 elapsed time: 154 İN SERİAL EXECUTİON
+result: 3.004680 in # of process: 8, with trial size 100000, while error: 0.043581 elapsed time: 134 İN SERİAL EXECUTİON
+result: 3.024464 in # of process: 8, with trial size 1000000, while error: 0.037283 elapsed time: 171 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 436 İN SERİAL EXECUTİON
+result: 3.760000 in # of process: 16, with trial size 100, while error: 0.196845 elapsed time: 382 İN SERİAL EXECUTİON
+result: 3.648000 in # of process: 16, with trial size 1000, while error: 0.161194 elapsed time: 348 İN SERİAL EXECUTİON
+result: 3.725200 in # of process: 16, with trial size 10000, while error: 0.185768 elapsed time: 355 İN SERİAL EXECUTİON
+result: 3.723800 in # of process: 16, with trial size 100000, while error: 0.185322 elapsed time: 327 İN SERİAL EXECUTİON
+result: 2.874644 in # of process: 16, with trial size 1000000, while error: 0.084972 elapsed time: 338 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 687 İN SERİAL EXECUTİON
+result: 2.800000 in # of process: 32, with trial size 100, while error: 0.108732 elapsed time: 595 İN SERİAL EXECUTİON
+result: 3.216000 in # of process: 32, with trial size 1000, while error: 0.023685 elapsed time: 690 İN SERİAL EXECUTİON
+result: 3.306400 in # of process: 32, with trial size 10000, while error: 0.052460 elapsed time: 625 İN SERİAL EXECUTİON
+result: 3.321480 in # of process: 32, with trial size 100000, while error: 0.057260 elapsed time: 595 İN SERİAL EXECUTİON
+result: 3.196364 in # of process: 32, with trial size 1000000, while error: 0.017434 elapsed time: 603 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 1, with trial size 10, while error: 0.145916 elapsed time: 27 İN SERİAL EXECUTİON
+result: 3.960000 in # of process: 1, with trial size 100, while error: 0.260507 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.996000 in # of process: 1, with trial size 1000, while error: 0.271966 elapsed time: 27 İN SERİAL EXECUTİON
+result: 3.999600 in # of process: 1, with trial size 10000, while error: 0.273112 elapsed time: 24 İN SERİAL EXECUTİON
+result: 3.999960 in # of process: 1, with trial size 100000, while error: 0.273227 elapsed time: 29 İN SERİAL EXECUTİON
+result: 3.999996 in # of process: 1, with trial size 1000000, while error: 0.273238 elapsed time: 28 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 elapsed time: 101 İN SERİAL EXECUTİON
+result: 3.960000 in # of process: 2, with trial size 100, while error: 0.260507 elapsed time: 55 İN SERİAL EXECUTİON
+result: 3.992000 in # of process: 2, with trial size 1000, while error: 0.270693 elapsed time: 53 İN SERİAL EXECUTİON
+result: 3.732800 in # of process: 2, with trial size 10000, while error: 0.188187 elapsed time: 61 İN SERİAL EXECUTİON
+result: 3.725160 in # of process: 2, with trial size 100000, while error: 0.185755 elapsed time: 36 İN SERİAL EXECUTİON
+result: 3.804512 in # of process: 2, with trial size 1000000, while error: 0.211014 elapsed time: 52 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 elapsed time: 87 İN SERİAL EXECUTİON
+result: 3.000000 in # of process: 4, with trial size 100, while error: 0.045070 elapsed time: 86 İN SERİAL EXECUTİON
+result: 3.432000 in # of process: 4, with trial size 1000, while error: 0.092440 elapsed time: 100 İN SERİAL EXECUTİON
+result: 3.363600 in # of process: 4, with trial size 10000, while error: 0.070667 elapsed time: 79 İN SERİAL EXECUTİON
+result: 3.367520 in # of process: 4, with trial size 100000, while error: 0.071915 elapsed time: 73 İN SERİAL EXECUTİON
+result: 2.745740 in # of process: 4, with trial size 1000000, while error: 0.126004 elapsed time: 71 İN SERİAL EXECUTİON
+result: 0.400000 in # of process: 8, with trial size 10, while error: 0.872676 elapsed time: 175 İN SERİAL EXECUTİON
+result: 0.840000 in # of process: 8, with trial size 100, while error: 0.732620 elapsed time: 197 İN SERİAL EXECUTİON
+result: 1.808000 in # of process: 8, with trial size 1000, while error: 0.424496 elapsed time: 170 İN SERİAL EXECUTİON
+result: 2.194000 in # of process: 8, with trial size 10000, while error: 0.301628 elapsed time: 146 İN SERİAL EXECUTİON
+result: 2.501200 in # of process: 8, with trial size 100000, while error: 0.203843 elapsed time: 165 İN SERİAL EXECUTİON
+result: 3.192936 in # of process: 8, with trial size 1000000, while error: 0.016343 elapsed time: 207 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 322 İN SERİAL EXECUTİON
+result: 3.240000 in # of process: 16, with trial size 100, while error: 0.031324 elapsed time: 268 İN SERİAL EXECUTİON
+result: 3.196000 in # of process: 16, with trial size 1000, while error: 0.017318 elapsed time: 272 İN SERİAL EXECUTİON
+result: 3.308000 in # of process: 16, with trial size 10000, while error: 0.052969 elapsed time: 309 İN SERİAL EXECUTİON
+result: 3.303000 in # of process: 16, with trial size 100000, while error: 0.051378 elapsed time: 307 İN SERİAL EXECUTİON
+result: 2.863832 in # of process: 16, with trial size 1000000, while error: 0.088414 elapsed time: 348 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 761 İN SERİAL EXECUTİON
+result: 1.440000 in # of process: 32, with trial size 100, while error: 0.541634 elapsed time: 522 İN SERİAL EXECUTİON
+result: 2.292000 in # of process: 32, with trial size 1000, while error: 0.270434 elapsed time: 636 İN SERİAL EXECUTİON
+result: 2.634400 in # of process: 32, with trial size 10000, while error: 0.161444 elapsed time: 630 İN SERİAL EXECUTİON
+result: 2.654120 in # of process: 32, with trial size 100000, while error: 0.155167 elapsed time: 771 İN SERİAL EXECUTİON
+result: 2.791284 in # of process: 32, with trial size 1000000, while error: 0.111507 elapsed time: 787 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10, while error: 0.273240 elapsed time: 33 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100, while error: 0.273240 elapsed time: 25 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000, while error: 0.273240 elapsed time: 31 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 10000, while error: 0.273240 elapsed time: 34 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 100000, while error: 0.273240 elapsed time: 23 İN SERİAL EXECUTİON
+result: 4.000000 in # of process: 1, with trial size 1000000, while error: 0.273240 elapsed time: 24 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 elapsed time: 59 İN SERİAL EXECUTİON
+result: 3.880000 in # of process: 2, with trial size 100, while error: 0.235042 elapsed time: 59 İN SERİAL EXECUTİON
+result: 3.960000 in # of process: 2, with trial size 1000, while error: 0.260507 elapsed time: 51 İN SERİAL EXECUTİON
+result: 3.973600 in # of process: 2, with trial size 10000, while error: 0.264836 elapsed time: 49 İN SERİAL EXECUTİON
+result: 3.414440 in # of process: 2, with trial size 100000, while error: 0.086850 elapsed time: 64 İN SERİAL EXECUTİON
+result: 3.251008 in # of process: 2, with trial size 1000000, while error: 0.034828 elapsed time: 59 İN SERİAL EXECUTİON
+result: 0.400000 in # of process: 4, with trial size 10, while error: 0.872676 elapsed time: 157 İN SERİAL EXECUTİON
+result: 0.400000 in # of process: 4, with trial size 100, while error: 0.872676 elapsed time: 112 İN SERİAL EXECUTİON
+result: 1.404000 in # of process: 4, with trial size 1000, while error: 0.553093 elapsed time: 105 İN SERİAL EXECUTİON
+result: 1.419600 in # of process: 4, with trial size 10000, while error: 0.548127 elapsed time: 84 İN SERİAL EXECUTİON
+result: 1.556560 in # of process: 4, with trial size 100000, while error: 0.504532 elapsed time: 97 İN SERİAL EXECUTİON
+result: 3.216244 in # of process: 4, with trial size 1000000, while error: 0.023762 elapsed time: 110 İN SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 elapsed time: 252 İN SERİAL EXECUTİON
+result: 3.280000 in # of process: 8, with trial size 100, while error: 0.044056 elapsed time: 242 İN SERİAL EXECUTİON
+result: 3.492000 in # of process: 8, with trial size 1000, while error: 0.111538 elapsed time: 187 İN SERİAL EXECUTİON
+result: 3.562400 in # of process: 8, with trial size 10000, while error: 0.133947 elapsed time: 171 İN SERİAL EXECUTİON
+result: 3.557960 in # of process: 8, with trial size 100000, while error: 0.132534 elapsed time: 147 İN SERİAL EXECUTİON
+result: 3.634108 in # of process: 8, with trial size 1000000, while error: 0.156773 elapsed time: 182 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 579 İN SERİAL EXECUTİON
+result: 3.640000 in # of process: 16, with trial size 100, while error: 0.158648 elapsed time: 320 İN SERİAL EXECUTİON
+result: 3.556000 in # of process: 16, with trial size 1000, while error: 0.131910 elapsed time: 334 İN SERİAL EXECUTİON
+result: 3.621600 in # of process: 16, with trial size 10000, while error: 0.152791 elapsed time: 311 İN SERİAL EXECUTİON
+result: 3.093120 in # of process: 16, with trial size 100000, while error: 0.015429 elapsed time: 323 İN SERİAL EXECUTİON
+result: 2.882316 in # of process: 16, with trial size 1000000, while error: 0.082530 elapsed time: 344 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 803 İN SERİAL EXECUTİON
+result: 3.480000 in # of process: 32, with trial size 100, while error: 0.107718 elapsed time: 788 İN SERİAL EXECUTİON
+result: 3.500000 in # of process: 32, with trial size 1000, while error: 0.114085 elapsed time: 638 İN SERİAL EXECUTİON
+result: 3.510800 in # of process: 32, with trial size 10000, while error: 0.117522 elapsed time: 599 İN SERİAL EXECUTİON
+result: 3.456080 in # of process: 32, with trial size 100000, while error: 0.100104 elapsed time: 651 İN SERİAL EXECUTİON
+result: 3.522632 in # of process: 32, with trial size 1000000, while error: 0.121289 elapsed time: 919 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 elapsed time: 27 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 elapsed time: 21 İN SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 elapsed time: 26 İN SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.600000 in # of process: 2, with trial size 10, while error: 0.145916 elapsed time: 47 İN SERİAL EXECUTİON
+result: 3.240000 in # of process: 2, with trial size 100, while error: 0.031324 elapsed time: 47 İN SERİAL EXECUTİON
+result: 3.180000 in # of process: 2, with trial size 1000, while error: 0.012225 elapsed time: 55 İN SERİAL EXECUTİON
+result: 3.150800 in # of process: 2, with trial size 10000, while error: 0.002931 elapsed time: 59 İN SERİAL EXECUTİON
+result: 3.152080 in # of process: 2, with trial size 100000, while error: 0.003338 elapsed time: 68 İN SERİAL EXECUTİON
+result: 3.141040 in # of process: 2, with trial size 1000000, while error: 0.000176 elapsed time: 48 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 elapsed time: 139 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 elapsed time: 125 İN SERİAL EXECUTİON
+result: 3.088000 in # of process: 4, with trial size 1000, while error: 0.017059 elapsed time: 116 İN SERİAL EXECUTİON
+result: 3.146000 in # of process: 4, with trial size 10000, while error: 0.001403 elapsed time: 139 İN SERİAL EXECUTİON
+result: 3.143200 in # of process: 4, with trial size 100000, while error: 0.000512 elapsed time: 86 İN SERİAL EXECUTİON
+result: 3.143276 in # of process: 4, with trial size 1000000, while error: 0.000536 elapsed time: 93 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 169 İN SERİAL EXECUTİON
+result: 2.920000 in # of process: 8, with trial size 100, while error: 0.070535 elapsed time: 208 İN SERİAL EXECUTİON
+result: 3.140000 in # of process: 8, with trial size 1000, while error: 0.000507 elapsed time: 173 İN SERİAL EXECUTİON
+result: 3.127200 in # of process: 8, with trial size 10000, while error: 0.004581 elapsed time: 188 İN SERİAL EXECUTİON
+result: 3.141960 in # of process: 8, with trial size 100000, while error: 0.000117 elapsed time: 127 İN SERİAL EXECUTİON
+result: 3.140640 in # of process: 8, with trial size 1000000, while error: 0.000303 elapsed time: 146 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 399 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 16, with trial size 100, while error: 0.083267 elapsed time: 449 İN SERİAL EXECUTİON
+result: 3.128000 in # of process: 16, with trial size 1000, while error: 0.004327 elapsed time: 316 İN SERİAL EXECUTİON
+result: 3.123200 in # of process: 16, with trial size 10000, while error: 0.005855 elapsed time: 353 İN SERİAL EXECUTİON
+result: 3.146640 in # of process: 16, with trial size 100000, while error: 0.001607 elapsed time: 341 İN SERİAL EXECUTİON
+result: 3.141988 in # of process: 16, with trial size 1000000, while error: 0.000126 elapsed time: 375 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 974 İN SERİAL EXECUTİON
+result: 2.800000 in # of process: 32, with trial size 100, while error: 0.108732 elapsed time: 541 İN SERİAL EXECUTİON
+result: 3.132000 in # of process: 32, with trial size 1000, while error: 0.003053 elapsed time: 770 İN SERİAL EXECUTİON
+result: 3.038400 in # of process: 32, with trial size 10000, while error: 0.032847 elapsed time: 679 İN SERİAL EXECUTİON
+result: 3.149400 in # of process: 32, with trial size 100000, while error: 0.002485 elapsed time: 1283 İN SERİAL EXECUTİON
+result: 3.141296 in # of process: 32, with trial size 1000000, while error: 0.000094 elapsed time: 915 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 elapsed time: 28 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 elapsed time: 24 İN SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 elapsed time: 28 İN SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 elapsed time: 25 İN SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 elapsed time: 35 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 elapsed time: 41 İN SERİAL EXECUTİON
+result: 3.040000 in # of process: 2, with trial size 100, while error: 0.032338 elapsed time: 38 İN SERİAL EXECUTİON
+result: 3.212000 in # of process: 2, with trial size 1000, while error: 0.022411 elapsed time: 46 İN SERİAL EXECUTİON
+result: 3.136800 in # of process: 2, with trial size 10000, while error: 0.001526 elapsed time: 41 İN SERİAL EXECUTİON
+result: 3.149640 in # of process: 2, with trial size 100000, while error: 0.002562 elapsed time: 54 İN SERİAL EXECUTİON
+result: 3.142716 in # of process: 2, with trial size 1000000, while error: 0.000358 elapsed time: 47 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 elapsed time: 130 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 elapsed time: 125 İN SERİAL EXECUTİON
+result: 3.244000 in # of process: 4, with trial size 1000, while error: 0.032597 elapsed time: 112 İN SERİAL EXECUTİON
+result: 3.139600 in # of process: 4, with trial size 10000, while error: 0.000634 elapsed time: 123 İN SERİAL EXECUTİON
+result: 3.140600 in # of process: 4, with trial size 100000, while error: 0.000316 elapsed time: 78 İN SERİAL EXECUTİON
+result: 3.141272 in # of process: 4, with trial size 1000000, while error: 0.000102 elapsed time: 101 İN SERİAL EXECUTİON
+result: 2.800000 in # of process: 8, with trial size 10, while error: 0.108732 elapsed time: 148 İN SERİAL EXECUTİON
+result: 2.920000 in # of process: 8, with trial size 100, while error: 0.070535 elapsed time: 171 İN SERİAL EXECUTİON
+result: 3.148000 in # of process: 8, with trial size 1000, while error: 0.002040 elapsed time: 249 İN SERİAL EXECUTİON
+result: 3.124400 in # of process: 8, with trial size 10000, while error: 0.005473 elapsed time: 167 İN SERİAL EXECUTİON
+result: 3.146520 in # of process: 8, with trial size 100000, while error: 0.001568 elapsed time: 178 İN SERİAL EXECUTİON
+result: 3.141912 in # of process: 8, with trial size 1000000, while error: 0.000102 elapsed time: 158 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 294 İN SERİAL EXECUTİON
+result: 3.040000 in # of process: 16, with trial size 100, while error: 0.032338 elapsed time: 367 İN SERİAL EXECUTİON
+result: 3.148000 in # of process: 16, with trial size 1000, while error: 0.002040 elapsed time: 314 İN SERİAL EXECUTİON
+result: 3.129600 in # of process: 16, with trial size 10000, while error: 0.003817 elapsed time: 558 İN SERİAL EXECUTİON
+result: 3.150080 in # of process: 16, with trial size 100000, while error: 0.002702 elapsed time: 356 İN SERİAL EXECUTİON
+result: 3.140600 in # of process: 16, with trial size 1000000, while error: 0.000316 elapsed time: 386 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 537 İN SERİAL EXECUTİON
+result: 2.960000 in # of process: 32, with trial size 100, while error: 0.057803 elapsed time: 534 İN SERİAL EXECUTİON
+result: 3.128000 in # of process: 32, with trial size 1000, while error: 0.004327 elapsed time: 514 İN SERİAL EXECUTİON
+result: 3.130000 in # of process: 32, with trial size 10000, while error: 0.003690 elapsed time: 670 İN SERİAL EXECUTİON
+result: 3.148240 in # of process: 32, with trial size 100000, while error: 0.002116 elapsed time: 1296 İN SERİAL EXECUTİON
+result: 3.141940 in # of process: 32, with trial size 1000000, while error: 0.000111 elapsed time: 1269 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 elapsed time: 27 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 elapsed time: 22 İN SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 elapsed time: 25 İN SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 elapsed time: 25 İN SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 elapsed time: 25 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 elapsed time: 38 İN SERİAL EXECUTİON
+result: 3.240000 in # of process: 2, with trial size 100, while error: 0.031324 elapsed time: 38 İN SERİAL EXECUTİON
+result: 3.072000 in # of process: 2, with trial size 1000, while error: 0.022152 elapsed time: 41 İN SERİAL EXECUTİON
+result: 3.131600 in # of process: 2, with trial size 10000, while error: 0.003181 elapsed time: 36 İN SERİAL EXECUTİON
+result: 3.143440 in # of process: 2, with trial size 100000, while error: 0.000588 elapsed time: 41 İN SERİAL EXECUTİON
+result: 3.142224 in # of process: 2, with trial size 1000000, while error: 0.000201 elapsed time: 40 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 4, with trial size 10, while error: 0.236056 elapsed time: 119 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 elapsed time: 139 İN SERİAL EXECUTİON
+result: 3.204000 in # of process: 4, with trial size 1000, while error: 0.019865 elapsed time: 103 İN SERİAL EXECUTİON
+result: 3.136000 in # of process: 4, with trial size 10000, while error: 0.001780 elapsed time: 203 İN SERİAL EXECUTİON
+result: 3.153520 in # of process: 4, with trial size 100000, while error: 0.003797 elapsed time: 85 İN SERİAL EXECUTİON
+result: 3.143600 in # of process: 4, with trial size 1000000, while error: 0.000639 elapsed time: 90 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 220 İN SERİAL EXECUTİON
+result: 3.080000 in # of process: 8, with trial size 100, while error: 0.019606 elapsed time: 182 İN SERİAL EXECUTİON
+result: 3.196000 in # of process: 8, with trial size 1000, while error: 0.017318 elapsed time: 206 İN SERİAL EXECUTİON
+result: 3.129600 in # of process: 8, with trial size 10000, while error: 0.003817 elapsed time: 199 İN SERİAL EXECUTİON
+result: 3.145680 in # of process: 8, with trial size 100000, while error: 0.001301 elapsed time: 184 İN SERİAL EXECUTİON
+result: 3.141772 in # of process: 8, with trial size 1000000, while error: 0.000057 elapsed time: 237 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 441 İN SERİAL EXECUTİON
+result: 3.040000 in # of process: 16, with trial size 100, while error: 0.032338 elapsed time: 274 İN SERİAL EXECUTİON
+result: 3.072000 in # of process: 16, with trial size 1000, while error: 0.022152 elapsed time: 356 İN SERİAL EXECUTİON
+result: 3.139200 in # of process: 16, with trial size 10000, while error: 0.000762 elapsed time: 269 İN SERİAL EXECUTİON
+result: 3.146680 in # of process: 16, with trial size 100000, while error: 0.001619 elapsed time: 455 İN SERİAL EXECUTİON
+result: 3.141660 in # of process: 16, with trial size 1000000, while error: 0.000021 elapsed time: 347 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 939 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 32, with trial size 100, while error: 0.083267 elapsed time: 679 İN SERİAL EXECUTİON
+result: 3.120000 in # of process: 32, with trial size 1000, while error: 0.006873 elapsed time: 502 İN SERİAL EXECUTİON
+result: 3.134000 in # of process: 32, with trial size 10000, while error: 0.002417 elapsed time: 687 İN SERİAL EXECUTİON
+result: 3.145080 in # of process: 32, with trial size 100000, while error: 0.001110 elapsed time: 885 İN SERİAL EXECUTİON
+result: 3.145056 in # of process: 32, with trial size 1000000, while error: 0.001102 elapsed time: 2586 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 1, with trial size 10, while error: 0.018592 elapsed time: 25 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 1, with trial size 100, while error: 0.083267 elapsed time: 27 İN SERİAL EXECUTİON
+result: 3.088000 in # of process: 1, with trial size 1000, while error: 0.017059 elapsed time: 29 İN SERİAL EXECUTİON
+result: 3.119600 in # of process: 1, with trial size 10000, while error: 0.007000 elapsed time: 26 İN SERİAL EXECUTİON
+result: 3.143760 in # of process: 1, with trial size 100000, while error: 0.000690 elapsed time: 23 İN SERİAL EXECUTİON
+result: 3.142872 in # of process: 1, with trial size 1000000, while error: 0.000407 elapsed time: 27 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 2, with trial size 10, while error: 0.018592 elapsed time: 37 İN SERİAL EXECUTİON
+result: 3.240000 in # of process: 2, with trial size 100, while error: 0.031324 elapsed time: 41 İN SERİAL EXECUTİON
+result: 3.100000 in # of process: 2, with trial size 1000, while error: 0.013239 elapsed time: 44 İN SERİAL EXECUTİON
+result: 3.133600 in # of process: 2, with trial size 10000, while error: 0.002544 elapsed time: 39 İN SERİAL EXECUTİON
+result: 3.148560 in # of process: 2, with trial size 100000, while error: 0.002218 elapsed time: 50 İN SERİAL EXECUTİON
+result: 3.144200 in # of process: 2, with trial size 1000000, while error: 0.000830 elapsed time: 38 İN SERİAL EXECUTİON
+result: 2.000000 in # of process: 4, with trial size 10, while error: 0.363380 elapsed time: 86 İN SERİAL EXECUTİON
+result: 3.200000 in # of process: 4, with trial size 100, while error: 0.018592 elapsed time: 171 İN SERİAL EXECUTİON
+result: 3.144000 in # of process: 4, with trial size 1000, while error: 0.000766 elapsed time: 90 İN SERİAL EXECUTİON
+result: 3.148000 in # of process: 4, with trial size 10000, while error: 0.002040 elapsed time: 108 İN SERİAL EXECUTİON
+result: 3.151640 in # of process: 4, with trial size 100000, while error: 0.003198 elapsed time: 89 İN SERİAL EXECUTİON
+result: 3.143408 in # of process: 4, with trial size 1000000, while error: 0.000578 elapsed time: 89 İN SERİAL EXECUTİON
+result: 2.400000 in # of process: 8, with trial size 10, while error: 0.236056 elapsed time: 135 İN SERİAL EXECUTİON
+result: 3.120000 in # of process: 8, with trial size 100, while error: 0.006873 elapsed time: 138 İN SERİAL EXECUTİON
+result: 3.176000 in # of process: 8, with trial size 1000, while error: 0.010952 elapsed time: 150 İN SERİAL EXECUTİON
+result: 3.155600 in # of process: 8, with trial size 10000, while error: 0.004459 elapsed time: 193 İN SERİAL EXECUTİON
+result: 3.152640 in # of process: 8, with trial size 100000, while error: 0.003517 elapsed time: 143 İN SERİAL EXECUTİON
+result: 3.142940 in # of process: 8, with trial size 1000000, while error: 0.000429 elapsed time: 193 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 16, with trial size 10, while error: 1.000000 elapsed time: 304 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 16, with trial size 100, while error: 0.083267 elapsed time: 433 İN SERİAL EXECUTİON
+result: 3.184000 in # of process: 16, with trial size 1000, while error: 0.013499 elapsed time: 270 İN SERİAL EXECUTİON
+result: 3.152800 in # of process: 16, with trial size 10000, while error: 0.003567 elapsed time: 399 İN SERİAL EXECUTİON
+result: 3.148360 in # of process: 16, with trial size 100000, while error: 0.002154 elapsed time: 438 İN SERİAL EXECUTİON
+result: 3.142892 in # of process: 16, with trial size 1000000, while error: 0.000414 elapsed time: 1044 İN SERİAL EXECUTİON
+result: 0.000000 in # of process: 32, with trial size 10, while error: 1.000000 elapsed time: 583 İN SERİAL EXECUTİON
+result: 2.880000 in # of process: 32, with trial size 100, while error: 0.083267 elapsed time: 525 İN SERİAL EXECUTİON
+result: 3.120000 in # of process: 32, with trial size 1000, while error: 0.006873 elapsed time: 542 İN SERİAL EXECUTİON
+result: 3.149200 in # of process: 32, with trial size 10000, while error: 0.002421 elapsed time: 665 İN SERİAL EXECUTİON
+result: 3.142640 in # of process: 32, with trial size 100000, while error: 0.000333 elapsed time: 1163 İN SERİAL EXECUTİON
+result: 3.143136 in # of process: 32, with trial size 1000000, while error: 0.000491 elapsed time: 830 İN SERİAL EXECUTİON
